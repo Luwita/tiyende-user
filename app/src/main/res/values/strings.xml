@@ -1,0 +1,531 @@
+<!DOCTYPE resources [<!ENTITY appname "Tiyende User">
+    <!ENTITY googleMapKey "AIzaSyCdumJAtsNufQqdvyIE4wrSlPNFNwiF7ng">
+    <!ENTITY baseUrl "YOUR_SITE_URL/">
+    <!ENTITY countryCode "+26">]>
+<resources>
+    <string name="app_name" translatable="false">&appname;</string>
+    <string name="google_maps_key" translatable="false">&googleMapKey;</string>
+    <string name="txt_country_code">&countryCode;</string>
+
+    <string name="url_privacy" translatable="false">&baseUrl;#/privacy-policy</string>
+    <string name="url_terms" translatable="false">&baseUrl;#/terms</string>
+    <string name="txt_term_and_policy"><![CDATA[<p>By continuing, you agree to our <a href=\"https://shuttle.ridein.in/#/terms\">terms of service</a> and <a href=\"https://shuttle.ridein.in/#/privacy-policy\">privacy policy</a><p>]]></string>
+
+    <string name="facebook_app_id" translatable="false">959809234778581</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb959809234778581</string>
+    <string name="razorpay_test_key" translatable="false">rzp_test_2jsXvTqWBQyNXb</string>
+
+
+    <string name="txt_bus_available"> Bus Available</string>
+    <string name="text_seat">Seat</string>
+    <string name="send_to">Share using</string>
+    <string name="txtYourCode">Your code:</string>
+    <string name="txtTotalEarning">Total Earning</string>
+    <string name="txt_your_link">Your Link :</string>
+    <string name="text_get_100_when_your_friend_complete_trip_with_us">Now refer your friends, colleagues and earn exciting credits in your wallet.<br /><br /> How it works?<br /><br />
+1. Invite a friend to use our app, using your referral code. Your friend gets Rs 100 credits in wallet on signing up. <br />
+2. You get Rs 100 in credits when a friend confirms (completed ride post boarding) their 1" paid ride. <br />
+3. You can use the credits to book your next ride(s).
+</string>
+    <string name="hint_enter_your_contact_number">Enter Contact Number</string>
+    <string name="lbl_email">Email :</string>
+    <string name="lbl_wallet">Refer friends, Earn wallet money</string>
+    <string name="lbl_your_wallet_in_balance">Your Balance</string>
+    <string name="title_price">Price</string>
+    <string name="text_confirmed">Confirmed</string>
+    <string name="hint_from_city">From City</string>
+    <string name="hint_to_city">To City</string>
+    <string name="txt_view_all">View all</string>
+    <string name="txt_new_offers">New Offers</string>
+    <string name="txt_popular_package">Popular Packages</string>
+    <string name="title_email_notification_settings">Email Notification Settings</string>
+    <string name="txt_email_notification">Email Notification</string>
+    <string name="lbl_contact_number_settings">Contact Number Notification Settings</string>
+    <string name="lbl_mobile_no">Mobile No :</string>
+    <string name="lbl_number_notification">Number Notification</string>
+    <string name="title_language_setting">Language Settings</string>
+    <string name="lbl_language">Language :</string>
+    <string name="txt_english_us">English-US</string>
+    <string name="lbl_first_name">First Name :</string>
+    <string name="lbl_last_name">Last Name :</string>
+    <string name="lbl_gender">Gender :</string>
+    <string name="title_edit_your_name">Edit Your Personal Details</string>
+    <string name="title_edit_your_contact">Edit Your Contact</string>
+    <string name="lbl_total_fare">Total Fare</string>
+    <string name="lbl_pnr_no">PNR No</string>
+
+    <string name="tite_toolbar_cards">Cards</string>
+    <string name="lbl_help_support">Help and Support</string>
+    <string name="hint_enter_your_emailid">Enter Your Email Id</string>
+
+    <string name="txt_ticket_no">Ticket No</string>
+    <string name="msg_email_required">Email required</string>
+    <string name="msg_email_valid">Enter Valid Email</string>
+    <string name="msg_first_name">First name required</string>
+    <string name="msg_last_name">Last name required</string>
+    <string name="msg_valid_mobile_number">Enter Valid Mobile number</string>
+    <string name="msg_mobile_number">Mobile number required</string>
+    <string name="msg_email_id">Email Id required</string>
+    <string name="msg_description">Description required</string>
+    <string name="msg_office_add">Office address required</string>
+    <string name="msg_home_add">Home address required</string>
+    <string name="msg_time">Leave time required</string>
+
+    <string name="hint_email">Enter Email ID</string>
+
+    <string name="txtCancelled">Cancelled</string>
+    <string name="txtColon">:</string>
+    <string name="search">Search</string>
+    <string name="lbl_special">SPECIAL</string>
+    <string name="lbl_use_code">Use Code:</string>
+    <string name="lbl_notification">Notification</string>
+    <string name="lbl_bus_routes">Bus Route</string>
+    <string name="lbl_verification">Enter your verification code \n we have just sent you on your mobile number</string>
+    <string name="txt_verify">Verify</string>
+    <string name="txt_Resend">Re-send</string>
+    <string name="lbl_StarRatings">Star Ratings</string>
+    <string name="txt_BusType">Bus Type</string>
+    <string name="lbl_Apply">Apply</string>
+    <string name="text_you_want_to">Welcome to</string>
+    <string name="hint_mobile">Enter Mobile Number</string>
+    <string name="lbl_continue">Continue</string>
+    <string name="text_signinwith">Sign In With</string>
+    <string name="verification">Verification</string>
+    <string name="refere_and_earn">Refer &amp; Earn</string>
+    <string name="lbl_profile_settings">Edit Profile</string>
+    <string name="lbl__wallet">Wallet</string>
+    <string name="lbl_cards">Cards</string>
+    <string name="lbl_help">Help</string>
+    <string name="lbl_submit">Submit</string>
+    <string name="home">Home</string>
+    <string name="text_book_now">Book Now</string>
+    <string name="text_contact_information">Contact Information</string>
+    <string name="text_bus_information">Bus Information</string>
+    <string name="text_bus_routes_info">Route Stops</string>
+    <string name="text_select_stop">Select your stop</string>
+    <string name="text_remind_me">Remind me before</string>
+    <string name="text_remind_me_on">Remind me on</string>
+    <string name="text_phone">Phone :</string>
+    <string name="txt_passenger">Passenger: </string>
+    <string name="txt_passenger_no">Passenger </string>
+    <string name="hint_enter_name">Enter Name</string>
+    <string name="hint_enter_age">Enter Age</string>
+    <string name="hint_card_number">Card Number</string>
+
+    <string name="text_select_month">Month</string>
+    <string name="text_select_year">Year</string>
+    <string name="text_card_holder_name">Card Holder Name</string>
+    <string name="text_valid">Valid</string>
+    <string name="lbl_ac">AC</string>
+    <string name="lbl_non_ac">NON-AC</string>
+    <string name="lbl_sleeper">SLEEPER</string>
+    <string name="lbl_seater">SEATER</string>
+    <string name="lbl_payment">Payment</string>
+    <string name="lbl_reminder">Set Reminder</string>
+    <string name="txt_cancelled">Cancelled</string>
+    <string name="txt_cancel_booking">Cancel</string>
+    <string name="text_available">Available</string>
+    <string name="text_booked">Booked</string>
+    <string name="text_pickup_point">Pickup point</string>
+    <string name="text_dropping_points">Dropping point</string>
+    <string name="text_selected">Selected</string>
+    <string name="lbl_view_routes"><u>View Route</u></string>
+    <string name="smith_travels">Smith travels</string>
+    <string name="text_net_banking">Net Banking</string>
+    <string name="text_offers">Offers</string>
+    <string name="text_credit_card">Credit Card</string>
+    <string name="text_debit">Debit Cart</string>
+    <string name="text_Mobilewallet">Mobile Wallet</string>
+    <string name="text_bus_list">Select a time slot</string>
+    <string name="hint_enter_first_name">Enter First Name</string>
+    <string name="hint_enter_last_name">Enter Last Name</string>
+    <string name="text_save">Save</string>
+    <string name="text_ticket_book">Paynow</string>
+    <string name="text_set_reminder">Set Reminder</string>
+    <string name="text_total_amount">Total Amount</string>
+    <string name="txt_copy">Copied</string>
+    <string name="text_offercode">Offer Code</string>
+    <string name="text_package">Package</string>
+    <string name="msg_from">From city required</string>
+    <string name="msg_office_ride_address_required">Home and Office Address are required</string>
+    <string name="msg_office_ride_timing_required">Home and Office Timing are required</string>
+    <string name="msg_to">To city required</string>
+    <string name="msg_name">Name required</string>
+    <string name="ms_age">Age required</string>
+    <string name="msg_digit">Card Number required</string>
+    <string name="msg_code">Code required</string>
+    <string name="msg_holdername">Holder Name required</string>
+    <string name="text_hour">Hour</string>
+
+
+    <string name="text_remove">Item was removed from the list.</string>
+    <string name="title_add_new_card">Add new card</string>
+    <string name="title_wallet">Wallet</string>
+    <string name="text_trending_packages">Trending Packages</string>
+    <string name="text_description">Description</string>
+    <string name="text_upper">Upper</string>
+    <string name="text_lower">Lower</string>
+    <string name="text_ladies">Ladies</string>
+    <string name="text_logout">Logout</string>
+
+    <string name="msg_saved">Saved</string>
+    <string name="text_confirmation">Confirmation!</string>
+    <string name="msg_logout">Are you sure, you want to logout?</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_no">No</string>
+    <string name="text_totalseat">Total Seat:</string>
+    <string name="text_cvv">CVV</string>
+    <string name="text_seat_no">Seat No</string>
+    <string name="text_addcard">Add Card</string>
+    <string name="text_settings">Settings</string>
+    <string name="text_select_bus">Select Seat</string>
+    <string name="text_hold">Stops</string>
+    <string name="text_ticket_price">Ticket Price :</string>
+    <string name="text_tax">Tax :</string>
+    <string name="text_tax_inc">Included in fare</string>
+    <string name="text_total_price">Total:</string>
+
+    <string name="text_duration">ETA</string>
+    <string name="text_payment">Payment</string>
+    <string name="text_done">Done</string>
+    <string name="text_payment_success">Payment Success !</string>
+    <string name="text_close">Close</string>
+    <string name="text_cardadd">Card Added</string>
+    <string name="msg_success">Thank you for booking. Enjoy your trip</string>
+    <string name="text_recent_search">Recent Search</string>
+    <string name="text_am">AM</string>
+    <string name="text_pm">PM</string>
+    <string name="text_city">Stops</string>
+    <string name="lbl_pickup1">Pickup 1</string>
+    <string name="lbl_location1">Landmark</string>
+    <string name="lbl_pickup2">Pickup 2</string>
+    <string name="lbl_dropping1">Dropping 1</string>
+    <string name="lbl_droppin2">Dropping 2</string>
+
+    <string name="lbl_type1">Seater</string>
+    <string name="lbl_type2">sleeper</string>
+
+    <string name="text_version">Version :</string>
+    <string name="text_country">Country: </string>
+    <string name="title_country_settings">Country Settings</string>
+    <string name="txt_user_name">User Name</string>
+    <string name="text_user_lastname">Last Name</string>
+    <string name="text_user_email">E-Mail</string>
+    <string name="text_user_phone">Phone No.</string>
+    <string name="text_one_way">One way</string>
+    <string name="text_return">Return</string>
+    <string name="text_sleeper">sleeper</string>
+    <string name="title_dropping">Pickup - Dropping Point</string>
+    <string name="title_passengerdetail">Add Passenger</string>
+
+    <string name="text_when_you_want_to_go">When you want to go?</string>
+
+    <string name="lbl_pass">Pass</string>
+    <string name="txt_time_slot">Time Slot</string>
+    <string name="search_result_title">Location Title</string>
+    <string name="no_search_result_add">Address</string>
+
+
+    <string name="no_search_result_title">No results. Please try something else.</string>
+    <string name="no_search_result_des">Check for spelling errors and try searching for a nearby locality or popular landmark.</string>
+
+
+    <string name="letsgo">  Let\'s Go  </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_pickup_location">Pick-up Location</string>
+    <string name="hint_drop_location">Drop-off Location</string>
+    <string name="txt_available_seats">Available Seats -2</string>
+    <string name="text_your_pickup_loca">Your Pickup Location</string>
+    <string name="lbl_set_reminder"><u>Set Reminder</u></string>
+    <string name="title_your_places">Edit Your Places</string>
+    <string name="lbl_home">Home</string>
+    <string name="hint_home_address">Home Address</string>
+    <string name="text_office">Office</string>
+    <string name="hint_office_address">Office Address</string>
+    <string name="lbl_home_leave_time">Time you leave from home</string>
+    <string name="lbl_office_leave_time">Time you leave from office</string>
+    <string name="title_activity_bus_route">Map</string>
+    <string name="text_pass">Passes</string>
+    <string name="text_pass_details">Pass Details</string>
+    <string name="txt_Network">Check your Network Connection !</string>
+    <string name="txt_Something_wrong">Something went wrong !</string>
+    <string name="title_reffer_code">Referral Code</string>
+    <string name="lbl_code">Code</string>
+    <string name="hint_referral_code">Referral code</string>
+    <string name="lbl_allow">Allow</string>
+    <string name="text_payment_failure">Payment Failure</string>
+    <string name="text_confirm_payment">Confirm Payment</string>
+    <string name="invoice_txt">Invoice for this will be sent to</string>
+    <string name="lbl_explore_routes">Explore Routes</string>
+    <string name="promocode">Enter Promo Code</string>
+    <string name="text_recent_search_clear">Clear</string>
+    <string name="lbl_suggest_routes">Suggest Route</string>
+    <string name="title_wallet_history">Wallet History</string>
+    <string name="lbl_wallet_history"><u>Wallet History</u></string>
+    <string name="lbl_transaction_history">Transaction History</string>
+    <string name="lbl_booking_history">Booking History</string>
+    <string name="text_bus_no">Bus No</string>
+    <string name="txt_bus_name">Bus Name</string>
+    <string name="msg_suggest_route">Our Services are Launching Soon!!  Meanwhile, please help us to make your experience better. Please click the below button and suggest your route by entering your home and office address.</string>
+    <string name="txt_track_booking">Track</string>
+    <string name="lbl_track_routes">Track Bus Route</string>
+    <string name="lbl_invoice">Invoice</string>
+    <string name="download_invoice">Download Invoice</string>
+    <string name="buy_pass_msg">You can buy pass after searching ride from office ride section. Pass will be only applicable in office ride and on selected route</string>
+    <string name="invoice_alert">You can download invoice after trip is completed.</string>
+    <string name="txt_bus_not_available">Sorry! This bus is not available today</string>
+    <string name="text_booking_cancel">Cancel Booking</string>
+    <string name="lbl_no_data_available">No Data Available</string>
+    <string name="lbl_no_bus_available">No Bus Available</string>
+
+    <string name="settings">Settings</string>
+    <string name="fine_permission_denied_explanation">Fine location permission was denied, but is needed for core functionality.</string>
+    <string name="text_review">Review Alert</string>
+    <string name="msg_review">Hi! like the experience with us. Please take some to review.</string>
+    <string name="text_sure">Sure</string>
+    <string name="text_later">Later</string>
+    <string name="route_not_available">Route not available</string>
+    <string name="pls_wait_loading">Please wait...</string>
+    <string name="alert">Alert!!</string>
+    <string name="ok">Okay</string>
+    <string name="pls_wait_payment_in_progress">Please wait your transaction is in progress.</string>
+    <string name="lbl_to">"  to  "</string>
+    <string name="change_email">Change Email</string>
+    <string name="booking_date">Booking Date</string>
+    <string name="for_both_morning_amp_evening_trips">For both morning &amp; evening trips</string>
+    <string name="pickup_point">PickUp Point</string>
+    <string name="drop_point">Drop Point</string>
+    <string name="bus">Bus</string>
+    <string name="seat_number">Seat Number</string>
+    <string name="a1">A1</string>
+    <string name="pay_from_shuttle_wallet">Pay from shuttle Wallet</string>
+    <string name="apply">Apply</string>
+    <string name="remove">Remove</string>
+    <string name="ride_fare">Ride Fare</string>
+    <string name="confirm_amp_pay">Confirm &amp; Pay</string>
+    <string name="no_routes_found">No Routes Found!!</string>
+    <string name="welcome_to_shuttle">Welcome to &appname;</string>
+    <string name="suggest_us">Suggest Us.</string>
+    <string name="check_out_shuttle">Check out &appname;</string>
+    <string name="no_notification_available">No Notification Available</string>
+    <string name="no_rides">NO.Rides</string>
+    <string name="_30_days_validity">30 Days validity</string>
+    <string name="office_route">Office Route</string>
+    <string name="note">Note</string>
+    <string name="terms_amp_conditions">Terms &amp; Conditions</string>
+    <string name="continue_to_pay">Continue to Pay</string>
+    <string name="helps_us_by_giving_location_permission_to_show_you_buses_live_status">Helps us by giving location permission to show you buses live status.</string>
+    <string name="shuttle_collects_location_data_to_show_passenger_bus_routes_only_when_the_app_in_use">&appname; collects location data to show passenger bus routes only when the app in use.</string>
+    <string name="location_show_your_routes">Location (show your routes)</string>
+    <string name="notification_for_receiving_booking_related_notifications">Notification (for receiving booking related notifications)</string>
+    <string name="camera_amp_storage_for_profile_image">Camera &amp; Storage (for profile image)</string>
+    <string name="bus_number">Bus Number</string>
+    <string name="driver_name">Driver Name</string>
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="the">THE</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="add_amount">Add Amount</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="recommended">Recommended</string>
+    <string name="add">Add</string>
+    <string name="payment_response">Payment Response</string>
+    <string name="instant_ride">Instant Ride</string>
+    <string name="rentals">Rentals</string>
+    <string name="office_ride">Office Ride</string>
+    <string name="find_route">Find Route</string>
+    <string name="pick_up">Pick Up</string>
+    <string name="drop_off">Drop off</string>
+    <string name="office_timing">Office Timing</string>
+    <string name="book_return_seat_for_the_same">Book return seat for the same.</string>
+    <string name="destination">Destination</string>
+    <string name="go">Go</string>
+    <string name="recently_searched">Recently Searched</string>
+    <string name="clear">Clear</string>
+    <string name="confirm">Confirm</string>
+    <string name="mode">Mode :</string>
+    <string name="pay_per_ride">Pay Per Ride</string>
+    <string name="buy_pass">Buy Pass</string>
+    <string name="pay_less_for_every_ride">Pay less for every ride</string>
+    <string name="route_stops">Route Stops</string>
+    <string name="stops">" stops"</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="rides">Rides</string>
+    <string name="days_validity">Days validity</string>
+    <string name="ride">ride</string>
+    <string name="second_left">seconds left</string>
+    <string name="txt_to">TO</string>
+    <string name="txt_proceed_to_pay">Proceed to pay </string>
+    <string name="txt_for_this_ride">for this ride</string>
+
+    <string name="start_with_phone_no">Start with Phone no</string>
+    <string name="field_not_empty">The field should not be empty</string>
+    <string name="no_sufficient_wallet_balance">Not sufficient wallet balance</string>
+    <string name="invalid_otp">Invalid OTP, please try again with new otp.</string>
+    <string name="pls_fill_dtls">Please fill all the required details</string>
+    <string name="you_sure_wanna_cancel">Are you sure, you want to cancel the transaction and go back!</string>
+    <string name="update_available">Update available</string>
+    <string name="new_version_with_updated_features_available_on_the_play_store_please_update_the_application_to_continue">A new version with updated features is available on the play store. Please update the application to continue.</string>
+    <string name="update">Update</string>
+    <string name="session_expire_msg">You will be logged out for security reasons. Sorry for the inconvenience please login again.</string>
+    <string name="session_expire">Session Expire!</string>
+    <string name="text_change_language">Change language</string>
+    <string name="title_more">More</string>
+    <string name="title_my_tickets">My Tickets</string>
+    <string name="this_language_is_already_set">This language is already set.</string>
+    <string name="verifying_payment">Verifying Payment...</string>
+    <string name="promo_code_is_not_valid">Promo Code is not valid.</string>
+    <string name="txt_applied">Applied</string>
+    <string name="you_are_only_allowed_to_book_one_seat_at_a_time">You are only allowed to book one seat at a time.</string>
+    <string name="you_are_only_allowed_to_book_three_seat_at_a_time">You are only allowed to book three seats at a time.</string>
+    <string name="tax_included_in_fare">Tax included in fare</string>
+
+
+    <!-- /////////////////////////////////////  NON Translatable  /////////////////////////////////////-->
+    <string name="contentdescription" translatable="false">TODO</string>
+    <string name="txt_todo" translatable="false">TODO</string>
+    <string name="txt_high_hill_manali" translatable="false">High Hill Manali</string>
+    <string name="txt_4_days_3_nights" translatable="false">4 Days 3 Nights</string>
+    <string name="_500" translatable="false"><strike>$ 500</strike></string>
+    <string name="txt_new_package" translatable="false">New Packages</string>
+    <string name="txt_emailid" translatable="false">John@gmail.com</string>
+    <string name="txt_visa" translatable="false">VISA</string>
+    <string name="text_destination" translatable="false">Ahmedabad (Guj) To High Hill,Manali</string>
+    <string name="txt_bustime" translatable="false">18:00</string>
+    <string name="txt_time" translatable="false">8:00</string>
+    <string name="txt_date" translatable="false">28-May-2019</string>
+    <string name="txt_samay_travel_main_office" translatable="false">Samay Travel Main Office</string>
+    <string name="txt_near_alim_chowk_manali" translatable="false">Near Alim Chowk,Manali</string>
+    <string name="ahmedabad_guj_high_hill_manali" translatable="false">Ahmedabad(Guj)- High Hill,Manali,Gujarat India</string>
+    <string name="lbl_2342340" translatable="false">2342340</string>
+    <string name="_200" translatable="false">₹200.00</string>
+    <string name="_1" translatable="false">1</string>
+    <string name="text__2" translatable="false">2</string>
+    <string name="_5" translatable="false">/5</string>
+    <string name="text_5" translatable="false">5</string>
+    <string name="lbl_35" translatable="false">$35</string>
+    <string name="text_mobile" translatable="false">+91 9988998899</string>
+    <string name="lbl_duration1" translatable="false">23:20</string>
+    <string name="lbl_DelhiToMubai" translatable="false">New Delhi To Mumbai</string>
+    <string name="lbl_MumbaiToPune" translatable="false">Mumbai To Pune</string>
+    <string name="lbl_AhmedabadToMumbai" translatable="false">Ahmedabad To Mumbai</string>
+    <string name="lbl_JaipurToNewDelhi" translatable="false">Jaipur To New Delhi</string>
+    <string name="lbl_MumbaiToSurat" translatable="false">Mumbai to Surat</string>
+    <string name="lbl_date" translatable="false">28-05-2019</string>
+    <string name="lbl_mumbai" translatable="false">Mumbai</string>
+    <string name="lbl_surat" translatable="false">Surat</string>
+    <string name="lbl_delhi" translatable="false">Delhi</string>
+    <string name="lbl_pune" translatable="false">Pune</string>
+    <string name="lbl_booking_duration1" translatable="false">28</string>
+    <string name="lbl_booking_duration2" translatable="false">22</string>
+    <string name="lbl_booking_starttime1" translatable="false">1:00</string>
+    <string name="lbl_booking_starttime2" translatable="false">1:00</string>
+    <string name="lbl_booking_totaltime1" translatable="false">8</string>
+    <string name="lbl_booking_endtime1" translatable="false">8:00</string>
+    <string name="lbl_booking_endtime2" translatable="false">8:00</string>
+    <string name="lbl_booking_SeatNo1" translatable="false">2,8</string>
+    <string name="lbl_booking_totalfare1" translatable="false">250</string>
+    <string name="lbl_booking_totalfare2" translatable="false">250</string>
+    <string name="lbl_booking_pnr1" translatable="false">FR20210920T113013154Z</string>
+    <string name="lbl_booking_pnr21" translatable="false">4325435354</string>
+    <string name="lbl_booking_ticketno1" translatable="false">KH4325435354</string>
+    <string name="lbl_booking_ticketno2" translatable="false">KH4325435354</string>
+    <string name="lbl_booking_passengername1" translatable="false">John Doe</string>
+    <string name="lbl_cardtype1" translatable="false">Paypal</string>
+    <string name="lbl_card_digit1" translatable="false">6253</string>
+    <string name="lbl_card_digit2" translatable="false">5686</string>
+    <string name="lbl_card_digit3" translatable="false">5623</string>
+    <string name="lbl_card_digit4" translatable="false">9563</string>
+    <string name="lbl_card_validdate1" translatable="false">05/10</string>
+    <string name="lbl_cardtype2" translatable="false">VISA</string>
+    <string name="lbl_starttime1" translatable="false">06:00</string>
+    <string name="lbl_endtime1" translatable="false">09:00</string>
+    <string name="lbl_totalDuration" translatable="false">8:00</string>
+    <string name="lbl_hold" translatable="false">3</string>
+
+    <string name="lbl_price1" translatable="false">50</string>
+    <string name="lbl_price2" translatable="false">100</string>
+    <string name="lbl_goa" translatable="false">Goa</string>
+    <string name="lbl_amritsar" translatable="false">Amritsar</string>
+    <string name="lbl_andaman" translatable="false">Andaman</string>
+    <string name="lbl_shimla" translatable="false">Shimla Manali</string>
+    <string name="lbl_udaipur" translatable="false">Udaipur</string>
+    <string name="lbl_package_duration1" translatable="false">7 Days 6 Nights</string>
+    <string name="lbl_package_duration2" translatable="false">5 Days 4 Nights</string>
+    <string name="lbl_package_duration3" translatable="false">2 Days 1 Nights</string>
+    <string name="lbl_package_rate1" translatable="false">2</string>
+    <string name="lbl_package_rate3" translatable="false">3</string>
+    <string name="lbl_package_rate5" translatable="false">5</string>
+    <string name="lbl_package_rate4" translatable="false">4</string>
+    <string name="lbl_package_price1" translatable="false">$ 33000</string>
+    <string name="lbl_package_price2" translatable="false">$ 30000</string>
+    <string name="lbl_package_price3" translatable="false">$ 10000</string>
+    <string name="lbl_package_price4" translatable="false">$ 8000</string>
+    <string name="lbl_package_price5" translatable="false">$ 5000</string>
+    <string name="lbl_package_booking1" translatable="false">8 Booking</string>
+    <string name="lbl_package_bookin2" translatable="false">15 Booking</string>
+    <string name="lbl_package_booking3" translatable="false">20 Booking</string>
+    <string name="lbl_booking_date1" translatable="false">27-May-2019</string>
+    <string name="lbl_booking_date2" translatable="false">25-July-2019</string>
+    <string name="lbl_may" translatable="false">May</string>
+    <string name="volvo_bus" translatable="false">Volvo Bus</string>
+    <string name="text_1" translatable="false">1</string>
+    <string name="text_100" translatable="false">100</string>
+    <string name="only_numbers" translatable="false">0123456789</string>
+    <string name="only_text" translatable="false">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="only_text_and_no" translatable="false">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ </string>
+    <string name="rs" translatable="false">₹ </string>
+    <string name="text_link" translatable="false">www.bus.com/refer/234556F</string>
+    <string name="text_undo" translatable="false">UNDO</string>
+    <string name="text_with_link" translatable="false"><![CDATA[<p>Developed by <a href=\"http://www.sourcemonster.in\">Source Monster</a><p>]]></string>
+    <string name="txt_totalhour" translatable="false">10 Hour</string>
+    <string name="text_facebooklink" translatable="false">https://www.facebook.com/</string>
+    <string name="text_googlelink" translatable="false">https://www.google.com/</string>
+    <string name="text_addhold" translatable="false">%s Stops</string>
+    <string name="text_add5" translatable="false">%d/5</string>
+    <string name="you_can_add_minimum">"You can add minimum "</string>
+    <string name="please_enter_amount">Please enter Amount.</string>
+    <string name="storage_permission_blocked_please_go_to_settings_and_allow_it">Storage Permission blocked, please go to settings and allow it.</string>
+    <string name="set_profile">Set Profile</string>
+    <string name="choose_any_option">Choose any option.</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="please_check_pick_up_and_drop_locations_could_not_be_same">Please check,Pick-Up and Drop locations could not be same.</string>
+    <string name="please_add_pick_up_and_drop_locations_first">Please add Pick-Up and Drop locations first.</string>
+    <string name="nearest_search_result_title">Searching nearest stops to your location.</string>
+    <string name="nearest_search_result_des">Here you will see the list of stops which are nearest to your search location.</string>
+    <string name="please_accept_our_terms_and_conditions">Please accept our Terms and Conditions.</string>
+    <string name="policy_policy">Privacy Policy</string>
+
+
+    <!-- /////////////////////////////////////  NON Translatable  /////////////////////////////////////-->
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="language">
+        <item>Language</item>
+        <item>English</item>
+        <item>عربي</item>
+    </string-array>
+
+    <string-array name="country">
+        <item>India</item>
+        <item>US</item>
+        <item>Canada</item>
+    </string-array>
+
+
+    <string-array name="buses_array">
+        <item>AC</item>
+        <item>Non AC</item>
+        <item>Normal</item>
+    </string-array>
+
+</resources>

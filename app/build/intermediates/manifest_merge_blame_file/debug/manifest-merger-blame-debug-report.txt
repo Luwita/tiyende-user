@@ -1,0 +1,1410 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.shuttleclone.userapp"
+4    android:versionCode="1"
+5    android:versionName="1.3" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:6:5-8:36
+12        android:name="android.hardware.telephony"
+12-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:7:9-50
+13        android:required="false" />
+13-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:8:9-33
+14
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:10:5-79
+15-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:10:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:11:5-80
+16-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:12:5-79
+17-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:12:22-76
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:13:5-67
+18-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:13:22-64
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:14:5-80
+19-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:14:22-77
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:15:5-81
+20-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:15:22-78
+21    <uses-permission android:name="android.permission.VIBRATE" />
+21-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:16:5-66
+21-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:16:22-63
+22    <uses-permission android:name="android.permission.CALL_PHONE" />
+22-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:17:5-68
+22-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:17:22-66
+23    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+23-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:18:5-76
+23-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:18:22-74
+24    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+24-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:19:5-75
+24-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:19:22-73
+25    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+25-->[com.google.android.libraries.places:places:3.1.0] C:\Users\Luwi\.gradle\caches\transforms-3\66ebc1904a37d7563dfe37faf29745e3\transformed\jetified-places-3.1.0\AndroidManifest.xml:11:5-76
+25-->[com.google.android.libraries.places:places:3.1.0] C:\Users\Luwi\.gradle\caches\transforms-3\66ebc1904a37d7563dfe37faf29745e3\transformed\jetified-places-3.1.0\AndroidManifest.xml:11:22-73
+26
+27    <queries>
+27-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:10:5-39:15
+28        <intent>
+28-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:11:9-17:18
+29            <action android:name="android.intent.action.VIEW" />
+29-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:214:17-69
+29-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:214:25-66
+30
+31            <data
+31-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:219:17-221:46
+32                android:mimeType="*/*"
+33                android:scheme="*" />
+33-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:221:21-43
+34        </intent>
+35        <intent>
+35-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:18:9-27:18
+36            <action android:name="android.intent.action.VIEW" />
+36-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:214:17-69
+36-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:214:25-66
+37
+38            <category android:name="android.intent.category.BROWSABLE" />
+38-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:217:17-78
+38-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:217:27-75
+39
+40            <data
+40-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:219:17-221:46
+41                android:host="pay"
+41-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:220:21-55
+42                android:mimeType="*/*"
+43                android:scheme="upi" />
+43-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:221:21-43
+44        </intent>
+45        <intent>
+45-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:28:9-30:18
+46            <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:197:17-69
+46-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:197:25-66
+47        </intent>
+48        <intent>
+48-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:31:9-35:18
+49            <action android:name="android.intent.action.SEND" />
+49-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:32:13-65
+49-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:32:21-62
+50
+51            <data android:mimeType="*/*" />
+51-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:219:17-221:46
+52        </intent>
+53        <intent>
+53-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:36:9-38:18
+54            <action android:name="rzp.device_token.share" />
+54-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:37:13-61
+54-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:37:21-58
+55        </intent>
+56        <!-- Needs to be explicitly declared on Android R+ -->
+57        <package android:name="com.google.android.apps.maps" />
+57-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Luwi\.gradle\caches\transforms-3\28a20b6efa9580faf0a7c3e5c8ff168a\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+57-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Luwi\.gradle\caches\transforms-3\28a20b6efa9580faf0a7c3e5c8ff168a\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+58        <package android:name="com.facebook.katana" />
+58-->[com.facebook.android:facebook-common:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\385bf3a05c270d34a726c083a0c3f732\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:18:9-55
+58-->[com.facebook.android:facebook-common:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\385bf3a05c270d34a726c083a0c3f732\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:18:18-52
+59    </queries>
+60
+61    <uses-feature
+61-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Luwi\.gradle\caches\transforms-3\28a20b6efa9580faf0a7c3e5c8ff168a\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+62        android:glEsVersion="0x00020000"
+62-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Luwi\.gradle\caches\transforms-3\28a20b6efa9580faf0a7c3e5c8ff168a\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+63        android:required="true" />
+63-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Luwi\.gradle\caches\transforms-3\28a20b6efa9580faf0a7c3e5c8ff168a\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+64
+65    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+65-->[com.github.afreakyelf:Pdf-Viewer:v1.0.7] C:\Users\Luwi\.gradle\caches\transforms-3\66ee4ca78402d664b6553e37f7d9af23\transformed\jetified-Pdf-Viewer-v1.0.7\AndroidManifest.xml:14:5-80
+65-->[com.github.afreakyelf:Pdf-Viewer:v1.0.7] C:\Users\Luwi\.gradle\caches\transforms-3\66ee4ca78402d664b6553e37f7d9af23\transformed\jetified-Pdf-Viewer-v1.0.7\AndroidManifest.xml:14:22-77
+66    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+66-->[com.github.afreakyelf:Pdf-Viewer:v1.0.7] C:\Users\Luwi\.gradle\caches\transforms-3\66ee4ca78402d664b6553e37f7d9af23\transformed\jetified-Pdf-Viewer-v1.0.7\AndroidManifest.xml:16:5-75
+66-->[com.github.afreakyelf:Pdf-Viewer:v1.0.7] C:\Users\Luwi\.gradle\caches\transforms-3\66ee4ca78402d664b6553e37f7d9af23\transformed\jetified-Pdf-Viewer-v1.0.7\AndroidManifest.xml:16:22-72
+67    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+67-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:24:5-68
+67-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:24:22-65
+68    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+68-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:26:5-82
+68-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:26:22-79
+69    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+69-->[com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\1451a88b06fb1a6877396bf4738a51b4\transformed\jetified-play-services-measurement-api-21.5.0\AndroidManifest.xml:25:5-79
+69-->[com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\1451a88b06fb1a6877396bf4738a51b4\transformed\jetified-play-services-measurement-api-21.5.0\AndroidManifest.xml:25:22-76
+70    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
+70-->[com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\1451a88b06fb1a6877396bf4738a51b4\transformed\jetified-play-services-measurement-api-21.5.0\AndroidManifest.xml:26:5-88
+70-->[com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\1451a88b06fb1a6877396bf4738a51b4\transformed\jetified-play-services-measurement-api-21.5.0\AndroidManifest.xml:26:22-85
+71    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
+71-->[com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\1451a88b06fb1a6877396bf4738a51b4\transformed\jetified-play-services-measurement-api-21.5.0\AndroidManifest.xml:27:5-82
+71-->[com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\1451a88b06fb1a6877396bf4738a51b4\transformed\jetified-play-services-measurement-api-21.5.0\AndroidManifest.xml:27:22-79
+72    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+72-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:25:5-81
+72-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:25:22-78
+73    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+73-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:26:5-77
+73-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:26:22-74
+74    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+74-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:26:5-110
+74-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:26:22-107
+75
+76    <permission
+76-->[androidx.core:core:1.10.0] C:\Users\Luwi\.gradle\caches\transforms-3\7ede12925ad542455873bedd33663f56\transformed\core-1.10.0\AndroidManifest.xml:22:5-24:47
+77        android:name="com.shuttleclone.userapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+77-->[androidx.core:core:1.10.0] C:\Users\Luwi\.gradle\caches\transforms-3\7ede12925ad542455873bedd33663f56\transformed\core-1.10.0\AndroidManifest.xml:23:9-81
+78        android:protectionLevel="signature" />
+78-->[androidx.core:core:1.10.0] C:\Users\Luwi\.gradle\caches\transforms-3\7ede12925ad542455873bedd33663f56\transformed\core-1.10.0\AndroidManifest.xml:24:9-44
+79
+80    <uses-permission android:name="com.shuttleclone.userapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+80-->[androidx.core:core:1.10.0] C:\Users\Luwi\.gradle\caches\transforms-3\7ede12925ad542455873bedd33663f56\transformed\core-1.10.0\AndroidManifest.xml:26:5-97
+80-->[androidx.core:core:1.10.0] C:\Users\Luwi\.gradle\caches\transforms-3\7ede12925ad542455873bedd33663f56\transformed\core-1.10.0\AndroidManifest.xml:26:22-94
+81
+82    <application
+82-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:21:5-274:19
+83        android:allowBackup="false"
+83-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:22:9-36
+84        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+84-->[androidx.core:core:1.10.0] C:\Users\Luwi\.gradle\caches\transforms-3\7ede12925ad542455873bedd33663f56\transformed\core-1.10.0\AndroidManifest.xml:28:18-86
+85        android:debuggable="true"
+86        android:fitsSystemWindows="true"
+86-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:23:9-41
+87        android:fullBackupContent="false"
+87-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:28:9-42
+88        android:hardwareAccelerated="true"
+88-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:29:9-43
+89        android:icon="@drawable/ic_app_logo"
+89-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:24:9-45
+90        android:label="@string/app_name"
+90-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:25:9-41
+91        android:largeHeap="true"
+91-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:30:9-33
+92        android:networkSecurityConfig="@xml/network_security_config"
+92-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:26:9-69
+93        android:requestLegacyExternalStorage="true"
+93-->[com.github.afreakyelf:Pdf-Viewer:v1.0.7] C:\Users\Luwi\.gradle\caches\transforms-3\66ee4ca78402d664b6553e37f7d9af23\transformed\jetified-Pdf-Viewer-v1.0.7\AndroidManifest.xml:18:18-61
+94        android:roundIcon="@drawable/ic_app_round_logo"
+94-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:27:9-56
+95        android:supportsRtl="true"
+95-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:31:9-35
+96        android:testOnly="true"
+97        android:theme="@style/AppTheme"
+97-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:32:9-40
+98        android:usesCleartextTraffic="true"
+98-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:33:9-44
+99        android:windowSoftInputMode="adjustResize" >
+99-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:34:9-51
+100        <meta-data
+100-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:38:9-40:37
+101            android:name="firebase_crashlytics_collection_enabled"
+101-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:39:13-67
+102            android:value="false" />
+102-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:40:13-34
+103        <meta-data
+103-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:41:9-43:36
+104            android:name="firebase_performance_logcat_enabled"
+104-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:42:13-63
+105            android:value="true" />
+105-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:43:13-33
+106
+107        <activity
+107-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:45:9-48:69
+108            android:name="com.shuttleclone.userapp.ui.activity.ViewInvoiceActivity"
+108-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:46:13-84
+109            android:screenOrientation="portrait"
+109-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:47:13-49
+110            android:windowSoftInputMode="stateHidden|adjustResize" />
+110-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:48:13-67
+111        <activity
+111-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:49:9-52:69
+112            android:name="com.shuttleclone.userapp.ui.activity.AppNotificationsActivity"
+112-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:50:13-89
+113            android:screenOrientation="portrait"
+113-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:51:13-49
+114            android:windowSoftInputMode="stateHidden|adjustResize" />
+114-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:52:13-67
+115        <activity
+115-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:53:9-56:69
+116            android:name="com.shuttleclone.userapp.ui.activity.WebViewPayment"
+116-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:54:13-79
+117            android:screenOrientation="portrait"
+117-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:55:13-49
+118            android:windowSoftInputMode="stateHidden|adjustResize" />
+118-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:56:13-67
+119        <activity
+119-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:57:9-60:69
+120            android:name="com.shuttleclone.userapp.ui.activity.BookedPassDetailsActivity"
+120-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:58:13-90
+121            android:screenOrientation="portrait"
+121-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:59:13-49
+122            android:windowSoftInputMode="stateHidden|adjustResize" />
+122-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:60:13-67
+123        <activity
+123-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:61:9-64:69
+124            android:name="com.shuttleclone.userapp.ui.activity.BookingHistoryActivity"
+124-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:62:13-87
+125            android:screenOrientation="portrait"
+125-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:63:13-49
+126            android:windowSoftInputMode="stateHidden|adjustResize" />
+126-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:64:13-67
+127        <activity
+127-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:65:9-69:70
+128            android:name="com.shuttleclone.userapp.ui.activity.SuggestRouteActivity"
+128-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:66:13-85
+129            android:exported="false"
+129-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:67:13-37
+130            android:screenOrientation="portrait"
+130-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:68:13-49
+131            android:windowSoftInputMode="stateHidden|adjustResize" />
+131-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:69:13-67
+132        <activity
+132-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:70:9-73:70
+133            android:name="com.shuttleclone.userapp.ui.activity.ExploreActivity"
+133-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:71:13-80
+134            android:screenOrientation="portrait"
+134-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:72:13-49
+135            android:windowSoftInputMode="stateHidden|adjustResize" />
+135-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:73:13-67
+136        <activity
+136-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:74:9-77:70
+137            android:name="com.shuttleclone.userapp.ui.activity.TrackRoutesActivity"
+137-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:75:13-84
+138            android:screenOrientation="portrait"
+138-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:76:13-49
+139            android:windowSoftInputMode="stateHidden|adjustResize" />
+139-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:77:13-67
+140        <activity
+140-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:78:9-81:70
+141            android:name="com.shuttleclone.userapp.ui.activity.InitialActivity"
+141-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:79:13-80
+142            android:screenOrientation="portrait"
+142-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:80:13-49
+143            android:windowSoftInputMode="stateHidden|adjustResize" />
+143-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:81:13-67
+144        <activity
+144-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:82:9-85:70
+145            android:name="com.shuttleclone.userapp.ui.activity.PassDetailsActivity"
+145-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:83:13-84
+146            android:screenOrientation="portrait"
+146-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:84:13-49
+147            android:windowSoftInputMode="stateHidden|adjustResize" />
+147-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:85:13-67
+148        <activity
+148-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:86:9-89:70
+149            android:name="com.shuttleclone.userapp.ui.activity.PassActivity"
+149-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:87:13-77
+150            android:screenOrientation="portrait"
+150-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:88:13-49
+151            android:windowSoftInputMode="stateHidden|adjustResize" />
+151-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:89:13-67
+152
+153        <meta-data
+153-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:91:9-93:55
+154            android:name="com.google.android.geo.API_KEY"
+154-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:92:13-58
+155            android:value="@string/google_maps_key" />
+155-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:93:13-52
+156
+157        <service
+157-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:95:9-100:19
+158            android:name="com.shuttleclone.userapp.fcmService.MyFirebaseMessagingService"
+158-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:95:18-95
+159            android:exported="false" >
+159-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:96:13-37
+160            <intent-filter>
+160-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:97:13-99:29
+161                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+161-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:98:17-78
+161-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:98:25-75
+162            </intent-filter>
+163        </service>
+164
+165        <receiver
+165-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:102:9-105:40
+166            android:name="com.shuttleclone.userapp.utils.broadCastReceivers.SmsBroadcastReceiver"
+166-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:103:13-98
+167            android:enabled="true"
+167-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:104:13-35
+168            android:exported="false" />
+168-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:105:13-37
+169
+170        <uses-library
+170-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:107:9-109:40
+171            android:name="org.apache.http.legacy"
+171-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:108:13-50
+172            android:required="false" />
+172-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:109:13-37
+173
+174        <activity
+174-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:111:9-114:70
+175            android:name="com.shuttleclone.userapp.ui.intro.IntroActivity"
+175-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:112:13-75
+176            android:screenOrientation="portrait"
+176-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:113:13-49
+177            android:windowSoftInputMode="stateHidden|adjustResize" />
+177-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:114:13-67
+178        <activity
+178-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:115:9-118:70
+179            android:name="com.shuttleclone.userapp.ui.activity.ConfirmPaymentActivity"
+179-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:116:13-87
+180            android:screenOrientation="portrait"
+180-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:117:13-49
+181            android:windowSoftInputMode="stateHidden|adjustResize" />
+181-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:118:13-67
+182        <activity
+182-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:119:9-122:70
+183            android:name="com.shuttleclone.userapp.ui.activity.PermissionActivity"
+183-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:120:13-83
+184            android:screenOrientation="portrait"
+184-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:121:13-49
+185            android:windowSoftInputMode="stateHidden|adjustResize" />
+185-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:122:13-67
+186        <activity
+186-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:123:9-126:70
+187            android:name="com.shuttleclone.userapp.ui.activity.BusRoutesActivity"
+187-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:124:13-82
+188            android:screenOrientation="portrait"
+188-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:125:13-49
+189            android:windowSoftInputMode="stateHidden|adjustResize" />
+189-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:126:13-67
+190        <activity
+190-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:127:9-130:70
+191            android:name="com.shuttleclone.userapp.ui.activity.SetReminderActivity"
+191-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:128:13-84
+192            android:screenOrientation="portrait"
+192-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:129:13-49
+193            android:windowSoftInputMode="stateHidden|adjustResize" />
+193-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:130:13-67
+194        <activity
+194-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:131:9-134:70
+195            android:name="com.shuttleclone.userapp.ui.activity.SettingActivity"
+195-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:132:13-80
+196            android:screenOrientation="portrait"
+196-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:133:13-49
+197            android:windowSoftInputMode="stateHidden|adjustResize" />
+197-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:134:13-67
+198        <activity
+198-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:135:9-138:70
+199            android:name="com.shuttleclone.userapp.ui.activity.PackageActivity"
+199-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:136:13-80
+200            android:screenOrientation="portrait"
+200-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:137:13-49
+201            android:windowSoftInputMode="stateHidden|adjustResize" />
+201-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:138:13-67
+202        <activity
+202-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:139:9-142:70
+203            android:name="com.shuttleclone.userapp.ui.activity.OffersActivity"
+203-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:140:13-79
+204            android:screenOrientation="portrait"
+204-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:141:13-49
+205            android:windowSoftInputMode="stateHidden|adjustResize" />
+205-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:142:13-67
+206        <activity
+206-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:143:9-146:70
+207            android:name="com.shuttleclone.userapp.ui.activity.TransactionHistoryActivity"
+207-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:144:13-91
+208            android:screenOrientation="portrait"
+208-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:145:13-49
+209            android:windowSoftInputMode="stateHidden|adjustResize" />
+209-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:146:13-67
+210        <activity
+210-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:147:9-150:70
+211            android:name="com.shuttleclone.userapp.ui.activity.CardDetailActivity"
+211-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:148:13-83
+212            android:screenOrientation="portrait"
+212-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:149:13-49
+213            android:windowSoftInputMode="stateHidden|adjustResize" />
+213-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:150:13-67
+214        <activity
+214-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:151:9-154:70
+215            android:name="com.shuttleclone.userapp.ui.activity.PaymentActivity"
+215-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:152:13-80
+216            android:screenOrientation="portrait"
+216-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:153:13-49
+217            android:windowSoftInputMode="stateHidden|adjustResize" />
+217-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:154:13-67
+218        <activity
+218-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:155:9-158:70
+219            android:name="com.shuttleclone.userapp.ui.activity.PassengerDetailActivity"
+219-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:156:13-88
+220            android:screenOrientation="portrait"
+220-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:157:13-49
+221            android:windowSoftInputMode="stateHidden|adjustResize" />
+221-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:158:13-67
+222        <activity
+222-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:159:9-162:70
+223            android:name="com.shuttleclone.userapp.ui.activity.DroppingPointActivity"
+223-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:160:13-86
+224            android:screenOrientation="portrait"
+224-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:161:13-49
+225            android:windowSoftInputMode="stateHidden|adjustResize" />
+225-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:162:13-67
+226        <activity
+226-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:163:9-166:70
+227            android:name="com.shuttleclone.userapp.ui.activity.VerificationActivity"
+227-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:164:13-85
+228            android:screenOrientation="portrait"
+228-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:165:13-49
+229            android:windowSoftInputMode="adjustResize|stateHidden" />
+229-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:166:13-67
+230        <activity
+230-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:167:9-178:20
+231            android:name="com.shuttleclone.userapp.ui.activity.BookingActivity"
+231-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:168:13-80
+232            android:screenOrientation="portrait" >
+232-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:169:13-49
+233
+234            <!--
+235            <intent-filter>
+236                <action android:name="android.intent.action.MAIN" />
+237
+238                <category android:name="android.intent.category.LAUNCHER" />
+239            </intent-filter>
+240            -->
+241        </activity>
+242        <activity
+242-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:179:9-182:70
+243            android:name="com.shuttleclone.userapp.ui.activity.SignInActivity"
+243-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:180:13-79
+244            android:screenOrientation="portrait"
+244-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:181:13-49
+245            android:windowSoftInputMode="adjustResize|stateHidden" />
+245-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:182:13-67
+246        <activity
+246-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:183:9-187:70
+247            android:name="com.shuttleclone.userapp.ui.activity.DashboardActivity"
+247-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:184:13-82
+248            android:launchMode="singleTask"
+248-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:185:13-44
+249            android:screenOrientation="portrait"
+249-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:186:13-49
+250            android:windowSoftInputMode="stateHidden|adjustResize" />
+250-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:187:13-67
+251        <activity
+251-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:188:9-191:55
+252            android:name="com.shuttleclone.userapp.ui.activity.SelectionActivity"
+252-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:189:13-82
+253            android:screenOrientation="portrait"
+253-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:190:13-49
+254            android:windowSoftInputMode="adjustPan" />
+254-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:191:13-52
+255        <activity
+255-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:192:9-201:20
+256            android:name="com.shuttleclone.userapp.ui.activity.SplashActivity"
+256-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:193:13-79
+257            android:exported="true"
+257-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:195:13-36
+258            android:screenOrientation="portrait" >
+258-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:194:13-49
+259            <intent-filter>
+259-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:196:13-200:29
+260                <action android:name="android.intent.action.MAIN" />
+260-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:197:17-69
+260-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:197:25-66
+261
+262                <category android:name="android.intent.category.LAUNCHER" />
+262-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:199:17-77
+262-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:199:27-74
+263            </intent-filter>
+264        </activity>
+265        <activity
+265-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:202:9-204:52
+266            android:name="com.shuttleclone.userapp.ui.activity.NotificationActivity"
+266-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:203:13-85
+267            android:screenOrientation="portrait" />
+267-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:204:13-49
+268        <activity
+268-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:205:9-207:52
+269            android:name="com.shuttleclone.userapp.ui.activity.BusListActivity"
+269-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:206:13-80
+270            android:screenOrientation="portrait" />
+270-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:207:13-49
+271        <activity
+271-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:208:9-223:20
+272            android:name="com.shuttleclone.userapp.ui.activity.ProfileSettingsActivity"
+272-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:209:13-88
+273            android:exported="true"
+273-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:212:13-36
+274            android:screenOrientation="portrait"
+274-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:210:13-49
+275            android:windowSoftInputMode="stateHidden|adjustResize" >
+275-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:211:13-67
+276            <intent-filter>
+276-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:213:13-222:29
+277                <action android:name="android.intent.action.VIEW" />
+277-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:214:17-69
+277-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:214:25-66
+278
+279                <category android:name="android.intent.category.DEFAULT" />
+279-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:216:17-76
+279-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:216:27-73
+280                <category android:name="android.intent.category.BROWSABLE" />
+280-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:217:17-78
+280-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:217:27-75
+281
+282                <data
+282-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:219:17-221:46
+283                    android:host="ferriuser.page.link"
+283-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:220:21-55
+284                    android:scheme="https" />
+284-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:221:21-43
+285            </intent-filter>
+286        </activity>
+287        <activity
+287-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:224:9-227:70
+288            android:name="com.shuttleclone.userapp.ui.activity.WalletActivity"
+288-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:225:13-79
+289            android:screenOrientation="portrait"
+289-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:226:13-49
+290            android:windowSoftInputMode="adjustResize|stateHidden" />
+290-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:227:13-67
+291        <activity
+291-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:228:9-230:52
+292            android:name="com.shuttleclone.userapp.ui.activity.CardsActivity"
+292-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:229:13-78
+293            android:screenOrientation="portrait" />
+293-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:230:13-49
+294        <activity
+294-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:231:9-233:52
+295            android:name="com.shuttleclone.userapp.ui.activity.ReferEarnActivity"
+295-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:232:13-82
+296            android:screenOrientation="portrait" />
+296-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:233:13-49
+297        <activity
+297-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:234:9-236:52
+298            android:name="com.shuttleclone.userapp.ui.activity.HelpActivity"
+298-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:235:13-77
+299            android:screenOrientation="portrait" />
+299-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:236:13-49
+300
+301        <meta-data
+301-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:238:9-240:55
+302            android:name="com.facebook.sdk.ApplicationId"
+302-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:239:13-58
+303            android:value="@string/facebook_app_id" />
+303-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:240:13-52
+304
+305        <activity
+305-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:242:9-245:48
+306            android:name="com.facebook.FacebookActivity"
+306-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:243:13-57
+307            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+307-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:244:13-96
+308            android:label="@string/app_name"
+308-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:245:13-45
+309            android:theme="@style/com_facebook_activity_theme" />
+309-->[com.facebook.android:facebook-common:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\385bf3a05c270d34a726c083a0c3f732\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:25:13-63
+310        <activity
+310-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:246:9-257:20
+311            android:name="com.facebook.CustomTabActivity"
+311-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:247:13-58
+312            android:exported="true" >
+312-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:248:13-36
+313            <intent-filter>
+313-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:249:13-256:29
+314                <action android:name="android.intent.action.VIEW" />
+314-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:214:17-69
+314-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:214:25-66
+315
+316                <category android:name="android.intent.category.DEFAULT" />
+316-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:216:17-76
+316-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:216:27-73
+317                <category android:name="android.intent.category.BROWSABLE" />
+317-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:217:17-78
+317-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:217:27-75
+318
+319                <data android:scheme="@string/fb_login_protocol_scheme" />
+319-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:219:17-221:46
+319-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:221:21-43
+320            </intent-filter>
+321            <intent-filter>
+321-->[com.facebook.android:facebook-common:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\385bf3a05c270d34a726c083a0c3f732\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:31:13-40:29
+322                <action android:name="android.intent.action.VIEW" />
+322-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:214:17-69
+322-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:214:25-66
+323
+324                <category android:name="android.intent.category.DEFAULT" />
+324-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:216:17-76
+324-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:216:27-73
+325                <category android:name="android.intent.category.BROWSABLE" />
+325-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:217:17-78
+325-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:217:27-75
+326
+327                <data
+327-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:219:17-221:46
+328                    android:host="cct.com.shuttleclone.userapp"
+328-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:220:21-55
+329                    android:scheme="fbconnect" />
+329-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:221:21-43
+330            </intent-filter>
+331        </activity>
+332
+333        <provider
+334            android:name="androidx.core.content.FileProvider"
+334-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:260:13-62
+335            android:authorities="com.shuttleclone.userapp.provider"
+335-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:261:13-60
+336            android:exported="false"
+336-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:262:13-37
+337            android:grantUriPermissions="true" >
+337-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:263:13-47
+338            <meta-data
+338-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:264:13-266:58
+339                android:name="android.support.FILE_PROVIDER_PATHS"
+339-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:265:17-67
+340                android:resource="@xml/provider_paths" />
+340-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:266:17-55
+341        </provider> <!-- Add your API key here -->
+342        <meta-data
+342-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:268:9-270:57
+343            android:name="com.razorpay.ApiKey"
+343-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:269:13-47
+344            android:value="@string/razorpay_test_key" />
+344-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:270:13-54
+345        <meta-data
+345-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:271:9-273:36
+346            android:name="com.google.android.gms.wallet.api.enabled"
+346-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:272:13-69
+347            android:value="true" />
+347-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:273:13-33
+348
+349        <activity
+349-->[com.google.android.libraries.places:places:3.1.0] C:\Users\Luwi\.gradle\caches\transforms-3\66ebc1904a37d7563dfe37faf29745e3\transformed\jetified-places-3.1.0\AndroidManifest.xml:15:9-21:20
+350            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+350-->[com.google.android.libraries.places:places:3.1.0] C:\Users\Luwi\.gradle\caches\transforms-3\66ebc1904a37d7563dfe37faf29745e3\transformed\jetified-places-3.1.0\AndroidManifest.xml:16:13-91
+351            android:exported="false"
+351-->[com.google.android.libraries.places:places:3.1.0] C:\Users\Luwi\.gradle\caches\transforms-3\66ebc1904a37d7563dfe37faf29745e3\transformed\jetified-places-3.1.0\AndroidManifest.xml:17:13-37
+352            android:label="@string/places_autocomplete_label"
+352-->[com.google.android.libraries.places:places:3.1.0] C:\Users\Luwi\.gradle\caches\transforms-3\66ebc1904a37d7563dfe37faf29745e3\transformed\jetified-places-3.1.0\AndroidManifest.xml:18:13-62
+353            android:theme="@style/PlacesAutocompleteOverlay"
+353-->[com.google.android.libraries.places:places:3.1.0] C:\Users\Luwi\.gradle\caches\transforms-3\66ebc1904a37d7563dfe37faf29745e3\transformed\jetified-places-3.1.0\AndroidManifest.xml:19:13-61
+354            android:windowSoftInputMode="adjustResize" >
+354-->[com.google.android.libraries.places:places:3.1.0] C:\Users\Luwi\.gradle\caches\transforms-3\66ebc1904a37d7563dfe37faf29745e3\transformed\jetified-places-3.1.0\AndroidManifest.xml:20:13-55
+355        </activity>
+356
+357        <receiver
+357-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:42:9-49:20
+358            android:name="com.razorpay.RzpTokenReceiver"
+358-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:43:13-57
+359            android:exported="true" >
+359-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:44:13-36
+360            <intent-filter>
+360-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:46:13-48:29
+361                <action android:name="rzp.device_token.share" />
+361-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:37:13-61
+361-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:37:21-58
+362            </intent-filter>
+363        </receiver>
+364
+365        <activity
+365-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:51:9-59:20
+366            android:name="com.razorpay.CheckoutActivity"
+366-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:52:13-57
+367            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+367-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:53:13-83
+368            android:exported="true"
+368-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:54:13-36
+369            android:theme="@style/CheckoutTheme" >
+369-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:55:13-49
+370            <intent-filter>
+370-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:56:13-58:29
+371                <action android:name="android.intent.action.MAIN" />
+371-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:197:17-69
+371-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:197:25-66
+372            </intent-filter>
+373        </activity>
+374
+375        <meta-data
+375-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:61:9-63:58
+376            android:name="com.razorpay.plugin.googlepay_all"
+376-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:62:13-61
+377            android:value="com.razorpay.RzpGpayMerged" />
+377-->[com.razorpay:checkout:1.6.30] C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:63:13-55
+378
+379        <activity android:name="com.facebook.CustomTabMainActivity" />
+379-->[com.facebook.android:facebook-common:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\385bf3a05c270d34a726c083a0c3f732\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:26:9-71
+379-->[com.facebook.android:facebook-common:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\385bf3a05c270d34a726c083a0c3f732\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:26:19-68
+380        <activity
+380-->[com.github.afreakyelf:Pdf-Viewer:v1.0.7] C:\Users\Luwi\.gradle\caches\transforms-3\66ee4ca78402d664b6553e37f7d9af23\transformed\jetified-Pdf-Viewer-v1.0.7\AndroidManifest.xml:19:9-21:66
+381            android:name="com.rajat.pdfviewer.PdfViewerActivity"
+381-->[com.github.afreakyelf:Pdf-Viewer:v1.0.7] C:\Users\Luwi\.gradle\caches\transforms-3\66ee4ca78402d664b6553e37f7d9af23\transformed\jetified-Pdf-Viewer-v1.0.7\AndroidManifest.xml:20:13-65
+382            android:theme="@style/Theme.PdfView.SelectedTheme" />
+382-->[com.github.afreakyelf:Pdf-Viewer:v1.0.7] C:\Users\Luwi\.gradle\caches\transforms-3\66ee4ca78402d664b6553e37f7d9af23\transformed\jetified-Pdf-Viewer-v1.0.7\AndroidManifest.xml:21:13-63
+383
+384        <service
+384-->[com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\01dfbb7e0792dbd7d729d5f96068ae79\transformed\jetified-firebase-auth-ktx-22.3.0\AndroidManifest.xml:8:9-14:19
+385            android:name="com.google.firebase.components.ComponentDiscoveryService"
+385-->[com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\01dfbb7e0792dbd7d729d5f96068ae79\transformed\jetified-firebase-auth-ktx-22.3.0\AndroidManifest.xml:9:13-84
+386            android:directBootAware="true"
+386-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Luwi\.gradle\caches\transforms-3\06e1462d1681af8351326a83a9298e87\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+387            android:exported="false" >
+387-->[com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\01dfbb7e0792dbd7d729d5f96068ae79\transformed\jetified-firebase-auth-ktx-22.3.0\AndroidManifest.xml:10:13-37
+388            <meta-data
+388-->[com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\01dfbb7e0792dbd7d729d5f96068ae79\transformed\jetified-firebase-auth-ktx-22.3.0\AndroidManifest.xml:11:13-13:85
+389                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar"
+389-->[com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\01dfbb7e0792dbd7d729d5f96068ae79\transformed\jetified-firebase-auth-ktx-22.3.0\AndroidManifest.xml:12:17-119
+390                android:value="com.google.firebase.components.ComponentRegistrar" />
+390-->[com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\01dfbb7e0792dbd7d729d5f96068ae79\transformed\jetified-firebase-auth-ktx-22.3.0\AndroidManifest.xml:13:17-82
+391            <meta-data
+391-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:69:13-71:85
+392                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+392-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:70:17-109
+393                android:value="com.google.firebase.components.ComponentRegistrar" />
+393-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:71:17-82
+394            <meta-data
+394-->[com.google.firebase:firebase-dynamic-links-ktx:21.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\78addf66e170093223979b9871a27bd9\transformed\jetified-firebase-dynamic-links-ktx-21.2.0\AndroidManifest.xml:25:13-27:85
+395                android:name="com.google.firebase.components:com.google.firebase.dynamiclinks.ktx.FirebaseDynamicLinksLegacyRegistrar"
+395-->[com.google.firebase:firebase-dynamic-links-ktx:21.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\78addf66e170093223979b9871a27bd9\transformed\jetified-firebase-dynamic-links-ktx-21.2.0\AndroidManifest.xml:26:17-135
+396                android:value="com.google.firebase.components.ComponentRegistrar" />
+396-->[com.google.firebase:firebase-dynamic-links-ktx:21.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\78addf66e170093223979b9871a27bd9\transformed\jetified-firebase-dynamic-links-ktx-21.2.0\AndroidManifest.xml:27:17-82
+397            <meta-data
+397-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:57:13-59:85
+398                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar"
+398-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:58:17-122
+399                android:value="com.google.firebase.components.ComponentRegistrar" />
+399-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:59:17-82
+400            <meta-data
+400-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:60:13-62:85
+401                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+401-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:61:17-119
+402                android:value="com.google.firebase.components.ComponentRegistrar" />
+402-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:62:17-82
+403            <meta-data
+403-->[com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\1451a88b06fb1a6877396bf4738a51b4\transformed\jetified-play-services-measurement-api-21.5.0\AndroidManifest.xml:37:13-39:85
+404                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+404-->[com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\1451a88b06fb1a6877396bf4738a51b4\transformed\jetified-play-services-measurement-api-21.5.0\AndroidManifest.xml:38:17-139
+405                android:value="com.google.firebase.components.ComponentRegistrar" />
+405-->[com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\1451a88b06fb1a6877396bf4738a51b4\transformed\jetified-play-services-measurement-api-21.5.0\AndroidManifest.xml:39:17-82
+406            <meta-data
+406-->[com.google.firebase:firebase-dynamic-links:21.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\ed1b42d88ed695099e14f7e69d0a8703\transformed\jetified-firebase-dynamic-links-21.2.0\AndroidManifest.xml:24:13-26:85
+407                android:name="com.google.firebase.components:com.google.firebase.dynamiclinks.FirebaseDynamicLinksKtxRegistrar"
+407-->[com.google.firebase:firebase-dynamic-links:21.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\ed1b42d88ed695099e14f7e69d0a8703\transformed\jetified-firebase-dynamic-links-21.2.0\AndroidManifest.xml:25:17-128
+408                android:value="com.google.firebase.components.ComponentRegistrar" />
+408-->[com.google.firebase:firebase-dynamic-links:21.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\ed1b42d88ed695099e14f7e69d0a8703\transformed\jetified-firebase-dynamic-links-21.2.0\AndroidManifest.xml:26:17-82
+409            <meta-data
+409-->[com.google.firebase:firebase-dynamic-links:21.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\ed1b42d88ed695099e14f7e69d0a8703\transformed\jetified-firebase-dynamic-links-21.2.0\AndroidManifest.xml:27:13-29:85
+410                android:name="com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar"
+410-->[com.google.firebase:firebase-dynamic-links:21.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\ed1b42d88ed695099e14f7e69d0a8703\transformed\jetified-firebase-dynamic-links-21.2.0\AndroidManifest.xml:28:17-133
+411                android:value="com.google.firebase.components.ComponentRegistrar" />
+411-->[com.google.firebase:firebase-dynamic-links:21.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\ed1b42d88ed695099e14f7e69d0a8703\transformed\jetified-firebase-dynamic-links-21.2.0\AndroidManifest.xml:29:17-82
+412            <meta-data
+412-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\b211c7be10878d3f756fe11ce3adf1ba\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:15:13-17:85
+413                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+413-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\b211c7be10878d3f756fe11ce3adf1ba\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:16:17-130
+414                android:value="com.google.firebase.components.ComponentRegistrar" />
+414-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\b211c7be10878d3f756fe11ce3adf1ba\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:17:17-82
+415            <meta-data
+415-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\b211c7be10878d3f756fe11ce3adf1ba\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:18:13-20:85
+416                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+416-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\b211c7be10878d3f756fe11ce3adf1ba\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:19:17-127
+417                android:value="com.google.firebase.components.ComponentRegistrar" />
+417-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\b211c7be10878d3f756fe11ce3adf1ba\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:20:17-82
+418            <meta-data
+418-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Luwi\.gradle\caches\transforms-3\4b3adf6e6a930e87d5009abe25ef674d\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+419                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+419-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Luwi\.gradle\caches\transforms-3\4b3adf6e6a930e87d5009abe25ef674d\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+420                android:value="com.google.firebase.components.ComponentRegistrar" />
+420-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Luwi\.gradle\caches\transforms-3\4b3adf6e6a930e87d5009abe25ef674d\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+421            <meta-data
+421-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Luwi\.gradle\caches\transforms-3\06e1462d1681af8351326a83a9298e87\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+422                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+422-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Luwi\.gradle\caches\transforms-3\06e1462d1681af8351326a83a9298e87\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+423                android:value="com.google.firebase.components.ComponentRegistrar" />
+423-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Luwi\.gradle\caches\transforms-3\06e1462d1681af8351326a83a9298e87\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+424            <meta-data
+424-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Luwi\.gradle\caches\transforms-3\1ff0633d53514307f435ef933d9b26da\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:27:13-29:85
+425                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+425-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Luwi\.gradle\caches\transforms-3\1ff0633d53514307f435ef933d9b26da\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:28:17-115
+426                android:value="com.google.firebase.components.ComponentRegistrar" />
+426-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Luwi\.gradle\caches\transforms-3\1ff0633d53514307f435ef933d9b26da\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
+427        </service>
+428
+429        <activity
+429-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:29:9-46:20
+430            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+430-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:30:13-80
+431            android:excludeFromRecents="true"
+431-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:31:13-46
+432            android:exported="true"
+432-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:32:13-36
+433            android:launchMode="singleTask"
+433-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:33:13-44
+434            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+434-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:34:13-72
+435            <intent-filter>
+435-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:35:13-45:29
+436                <action android:name="android.intent.action.VIEW" />
+436-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:214:17-69
+436-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:214:25-66
+437
+438                <category android:name="android.intent.category.DEFAULT" />
+438-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:216:17-76
+438-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:216:27-73
+439                <category android:name="android.intent.category.BROWSABLE" />
+439-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:217:17-78
+439-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:217:27-75
+440
+441                <data
+441-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:219:17-221:46
+442                    android:host="firebase.auth"
+442-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:220:21-55
+443                    android:path="/"
+444                    android:scheme="genericidp" />
+444-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:221:21-43
+445            </intent-filter>
+446        </activity>
+447        <activity
+447-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:47:9-64:20
+448            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+448-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:48:13-79
+449            android:excludeFromRecents="true"
+449-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:49:13-46
+450            android:exported="true"
+450-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:50:13-36
+451            android:launchMode="singleTask"
+451-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:51:13-44
+452            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+452-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:52:13-72
+453            <intent-filter>
+453-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\a8cc6dcb2d0dfc33023b577bb28df46a\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:53:13-63:29
+454                <action android:name="android.intent.action.VIEW" />
+454-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:214:17-69
+454-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:214:25-66
+455
+456                <category android:name="android.intent.category.DEFAULT" />
+456-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:216:17-76
+456-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:216:27-73
+457                <category android:name="android.intent.category.BROWSABLE" />
+457-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:217:17-78
+457-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:217:27-75
+458
+459                <data
+459-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:219:17-221:46
+460                    android:host="firebase.auth"
+460-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:220:21-55
+461                    android:path="/"
+462                    android:scheme="recaptcha" />
+462-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:221:21-43
+463            </intent-filter>
+464        </activity>
+465
+466        <receiver
+466-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:29:9-40:20
+467            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+467-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:30:13-78
+468            android:exported="true"
+468-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:31:13-36
+469            android:permission="com.google.android.c2dm.permission.SEND" >
+469-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:32:13-73
+470            <intent-filter>
+470-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:33:13-35:29
+471                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+471-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:34:17-81
+471-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:34:25-78
+472            </intent-filter>
+473
+474            <meta-data
+474-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:37:13-39:40
+475                android:name="com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED"
+475-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:38:17-92
+476                android:value="true" />
+476-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:39:17-37
+477        </receiver>
+478        <!--
+479             FirebaseMessagingService performs security checks at runtime,
+480             but set to not exported to explicitly avoid allowing another app to call it.
+481        -->
+482        <service
+482-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:46:9-53:19
+483            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+483-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:47:13-82
+484            android:directBootAware="true"
+484-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:48:13-43
+485            android:exported="false" >
+485-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:49:13-37
+486            <intent-filter android:priority="-500" >
+486-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:97:13-99:29
+487                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+487-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:98:17-78
+487-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:98:25-75
+488            </intent-filter>
+489        </service>
+490
+491        <activity
+491-->[com.google.android.gms:play-services-appinvite:17.0.0] C:\Users\Luwi\.gradle\caches\transforms-3\4b46972a69819542d418cb04f3f61798\transformed\jetified-play-services-appinvite-17.0.0\AndroidManifest.xml:25:9-34:20
+492            android:name="com.google.android.gms.appinvite.PreviewActivity"
+492-->[com.google.android.gms:play-services-appinvite:17.0.0] C:\Users\Luwi\.gradle\caches\transforms-3\4b46972a69819542d418cb04f3f61798\transformed\jetified-play-services-appinvite-17.0.0\AndroidManifest.xml:26:13-76
+493            android:exported="true"
+493-->[com.google.android.gms:play-services-appinvite:17.0.0] C:\Users\Luwi\.gradle\caches\transforms-3\4b46972a69819542d418cb04f3f61798\transformed\jetified-play-services-appinvite-17.0.0\AndroidManifest.xml:27:13-36
+494            android:theme="@style/Theme.AppInvite.Preview" >
+494-->[com.google.android.gms:play-services-appinvite:17.0.0] C:\Users\Luwi\.gradle\caches\transforms-3\4b46972a69819542d418cb04f3f61798\transformed\jetified-play-services-appinvite-17.0.0\AndroidManifest.xml:28:13-59
+495            <intent-filter>
+495-->[com.google.android.gms:play-services-appinvite:17.0.0] C:\Users\Luwi\.gradle\caches\transforms-3\4b46972a69819542d418cb04f3f61798\transformed\jetified-play-services-appinvite-17.0.0\AndroidManifest.xml:29:13-33:29
+496                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+496-->[com.google.android.gms:play-services-appinvite:17.0.0] C:\Users\Luwi\.gradle\caches\transforms-3\4b46972a69819542d418cb04f3f61798\transformed\jetified-play-services-appinvite-17.0.0\AndroidManifest.xml:30:17-90
+496-->[com.google.android.gms:play-services-appinvite:17.0.0] C:\Users\Luwi\.gradle\caches\transforms-3\4b46972a69819542d418cb04f3f61798\transformed\jetified-play-services-appinvite-17.0.0\AndroidManifest.xml:30:25-87
+497
+498                <category android:name="android.intent.category.DEFAULT" />
+498-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:216:17-76
+498-->C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\AndroidManifest.xml:216:27-73
+499            </intent-filter>
+500        </activity>
+501
+502        <property
+502-->[com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\1451a88b06fb1a6877396bf4738a51b4\transformed\jetified-play-services-measurement-api-21.5.0\AndroidManifest.xml:30:9-32:61
+503            android:name="android.adservices.AD_SERVICES_CONFIG"
+503-->[com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\1451a88b06fb1a6877396bf4738a51b4\transformed\jetified-play-services-measurement-api-21.5.0\AndroidManifest.xml:31:13-65
+504            android:resource="@xml/ga_ad_services_config" />
+504-->[com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\1451a88b06fb1a6877396bf4738a51b4\transformed\jetified-play-services-measurement-api-21.5.0\AndroidManifest.xml:32:13-58
+505
+506        <provider
+506-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:29:9-37:20
+507            android:name="androidx.startup.InitializationProvider"
+507-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:30:13-67
+508            android:authorities="com.shuttleclone.userapp.androidx-startup"
+508-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:31:13-68
+509            android:exported="false" >
+509-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:32:13-37
+510            <meta-data
+510-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:34:13-36:52
+511                android:name="androidx.work.WorkManagerInitializer"
+511-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:35:17-68
+512                android:value="androidx.startup" />
+512-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:36:17-49
+513            <meta-data
+513-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\d36e137b0b8cc9f3c7f09ef929c24e37\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+514                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+514-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\d36e137b0b8cc9f3c7f09ef929c24e37\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+515                android:value="androidx.startup" />
+515-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\d36e137b0b8cc9f3c7f09ef929c24e37\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+516            <meta-data
+516-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Luwi\.gradle\caches\transforms-3\f663ad9dfb9a25c81a4ed1eceb4f136a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+517                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+517-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Luwi\.gradle\caches\transforms-3\f663ad9dfb9a25c81a4ed1eceb4f136a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+518                android:value="androidx.startup" />
+518-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Luwi\.gradle\caches\transforms-3\f663ad9dfb9a25c81a4ed1eceb4f136a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+519            <meta-data
+519-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+520                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+520-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+521                android:value="androidx.startup" />
+521-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+522        </provider>
+523
+524        <service
+524-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:39:9-45:35
+525            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+525-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:40:13-88
+526            android:directBootAware="false"
+526-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:41:13-44
+527            android:enabled="@bool/enable_system_alarm_service_default"
+527-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:42:13-72
+528            android:exported="false" />
+528-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:43:13-37
+529        <service
+529-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:46:9-52:35
+530            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+530-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:47:13-84
+531            android:directBootAware="false"
+531-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:48:13-44
+532            android:enabled="@bool/enable_system_job_service_default"
+532-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:49:13-70
+533            android:exported="true"
+533-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:50:13-36
+534            android:permission="android.permission.BIND_JOB_SERVICE" />
+534-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:51:13-69
+535        <service
+535-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:53:9-59:35
+536            android:name="androidx.work.impl.foreground.SystemForegroundService"
+536-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:54:13-81
+537            android:directBootAware="false"
+537-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:55:13-44
+538            android:enabled="@bool/enable_system_foreground_service_default"
+538-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:56:13-77
+539            android:exported="false" />
+539-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:57:13-37
+540
+541        <receiver
+541-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:61:9-66:35
+542            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+542-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:62:13-88
+543            android:directBootAware="false"
+543-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:63:13-44
+544            android:enabled="true"
+544-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:64:13-35
+545            android:exported="false" />
+545-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:65:13-37
+546        <receiver
+546-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:67:9-77:20
+547            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+547-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:68:13-106
+548            android:directBootAware="false"
+548-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:69:13-44
+549            android:enabled="false"
+549-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:70:13-36
+550            android:exported="false" >
+550-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:71:13-37
+551            <intent-filter>
+551-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:73:13-76:29
+552                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+552-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:74:17-87
+552-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:74:25-84
+553                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+553-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:75:17-90
+553-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:75:25-87
+554            </intent-filter>
+555        </receiver>
+556        <receiver
+556-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:78:9-88:20
+557            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+557-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:79:13-104
+558            android:directBootAware="false"
+558-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:80:13-44
+559            android:enabled="false"
+559-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:81:13-36
+560            android:exported="false" >
+560-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:82:13-37
+561            <intent-filter>
+561-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:84:13-87:29
+562                <action android:name="android.intent.action.BATTERY_OKAY" />
+562-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:85:17-77
+562-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:85:25-74
+563                <action android:name="android.intent.action.BATTERY_LOW" />
+563-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:86:17-76
+563-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:86:25-73
+564            </intent-filter>
+565        </receiver>
+566        <receiver
+566-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:89:9-99:20
+567            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+567-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:90:13-104
+568            android:directBootAware="false"
+568-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:91:13-44
+569            android:enabled="false"
+569-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:92:13-36
+570            android:exported="false" >
+570-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:93:13-37
+571            <intent-filter>
+571-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:95:13-98:29
+572                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+572-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:96:17-83
+572-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:96:25-80
+573                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+573-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:97:17-82
+573-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:97:25-79
+574            </intent-filter>
+575        </receiver>
+576        <receiver
+576-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:100:9-109:20
+577            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+577-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:101:13-103
+578            android:directBootAware="false"
+578-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:102:13-44
+579            android:enabled="false"
+579-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:103:13-36
+580            android:exported="false" >
+580-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:104:13-37
+581            <intent-filter>
+581-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:106:13-108:29
+582                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+582-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:107:17-79
+582-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:107:25-76
+583            </intent-filter>
+584        </receiver>
+585        <receiver
+585-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:110:9-121:20
+586            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+586-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:111:13-88
+587            android:directBootAware="false"
+587-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:112:13-44
+588            android:enabled="false"
+588-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:113:13-36
+589            android:exported="false" >
+589-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:114:13-37
+590            <intent-filter>
+590-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:116:13-120:29
+591                <action android:name="android.intent.action.BOOT_COMPLETED" />
+591-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:117:17-79
+591-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:117:25-76
+592                <action android:name="android.intent.action.TIME_SET" />
+592-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:118:17-73
+592-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:118:25-70
+593                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+593-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:119:17-81
+593-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:119:25-78
+594            </intent-filter>
+595        </receiver>
+596        <receiver
+596-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:122:9-131:20
+597            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+597-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:123:13-99
+598            android:directBootAware="false"
+598-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:124:13-44
+599            android:enabled="@bool/enable_system_alarm_service_default"
+599-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:125:13-72
+600            android:exported="false" >
+600-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:126:13-37
+601            <intent-filter>
+601-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:128:13-130:29
+602                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+602-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:129:17-98
+602-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:129:25-95
+603            </intent-filter>
+604        </receiver>
+605        <receiver
+605-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:132:9-142:20
+606            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+606-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:133:13-78
+607            android:directBootAware="false"
+607-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:134:13-44
+608            android:enabled="true"
+608-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:135:13-35
+609            android:exported="true"
+609-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:136:13-36
+610            android:permission="android.permission.DUMP" >
+610-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:137:13-57
+611            <intent-filter>
+611-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:139:13-141:29
+612                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+612-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:140:17-88
+612-->[androidx.work:work-runtime:2.8.1] C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\AndroidManifest.xml:140:25-85
+613            </intent-filter>
+614        </receiver>
+615
+616        <service
+616-->[androidx.room:room-runtime:2.5.1] C:\Users\Luwi\.gradle\caches\transforms-3\98b40eacec7458543556721f3da69c73\transformed\room-runtime-2.5.1\AndroidManifest.xml:24:9-28:63
+617            android:name="androidx.room.MultiInstanceInvalidationService"
+617-->[androidx.room:room-runtime:2.5.1] C:\Users\Luwi\.gradle\caches\transforms-3\98b40eacec7458543556721f3da69c73\transformed\room-runtime-2.5.1\AndroidManifest.xml:25:13-74
+618            android:directBootAware="true"
+618-->[androidx.room:room-runtime:2.5.1] C:\Users\Luwi\.gradle\caches\transforms-3\98b40eacec7458543556721f3da69c73\transformed\room-runtime-2.5.1\AndroidManifest.xml:26:13-43
+619            android:exported="false" />
+619-->[androidx.room:room-runtime:2.5.1] C:\Users\Luwi\.gradle\caches\transforms-3\98b40eacec7458543556721f3da69c73\transformed\room-runtime-2.5.1\AndroidManifest.xml:27:13-37
+620
+621        <receiver
+621-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:29:9-33:20
+622            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+622-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:30:13-85
+623            android:enabled="true"
+623-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:31:13-35
+624            android:exported="false" >
+624-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:32:13-37
+625        </receiver>
+626
+627        <service
+627-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:35:9-38:40
+628            android:name="com.google.android.gms.measurement.AppMeasurementService"
+628-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:36:13-84
+629            android:enabled="true"
+629-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:37:13-35
+630            android:exported="false" />
+630-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:38:13-37
+631        <service
+631-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:39:9-43:72
+632            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+632-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:40:13-87
+633            android:enabled="true"
+633-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:41:13-35
+634            android:exported="false"
+634-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:42:13-37
+635            android:permission="android.permission.BIND_JOB_SERVICE" />
+635-->[com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\9254e214363b2aaff2a408215f0663c1\transformed\jetified-play-services-measurement-21.5.0\AndroidManifest.xml:43:13-69
+636
+637        <uses-library
+637-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Luwi\.gradle\caches\transforms-3\ef3a9eea4b888a53028dbce9380c99e7\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
+638            android:name="android.ext.adservices"
+638-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Luwi\.gradle\caches\transforms-3\ef3a9eea4b888a53028dbce9380c99e7\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
+639            android:required="false" />
+639-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Luwi\.gradle\caches\transforms-3\ef3a9eea4b888a53028dbce9380c99e7\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
+640
+641        <activity
+641-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\b1185e67cb403f8fdebeac6f7831af19\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:23:9-27:75
+642            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+642-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\b1185e67cb403f8fdebeac6f7831af19\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:24:13-93
+643            android:excludeFromRecents="true"
+643-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\b1185e67cb403f8fdebeac6f7831af19\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:25:13-46
+644            android:exported="false"
+644-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\b1185e67cb403f8fdebeac6f7831af19\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:26:13-37
+645            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+645-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\b1185e67cb403f8fdebeac6f7831af19\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:27:13-72
+646        <!--
+647            Service handling Google Sign-In user revocation. For apps that do not integrate with
+648            Google Sign-In, this service will never be started.
+649        -->
+650        <service
+650-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\b1185e67cb403f8fdebeac6f7831af19\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:33:9-37:51
+651            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+651-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\b1185e67cb403f8fdebeac6f7831af19\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:34:13-89
+652            android:exported="true"
+652-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\b1185e67cb403f8fdebeac6f7831af19\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:35:13-36
+653            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+653-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\b1185e67cb403f8fdebeac6f7831af19\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:36:13-107
+654            android:visibleToInstantApps="true" />
+654-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Luwi\.gradle\caches\transforms-3\b1185e67cb403f8fdebeac6f7831af19\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:37:13-48
+655
+656        <activity
+656-->[com.google.android.gms:play-services-base:18.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\c547520cb26042a9b84a0eab537b0f7a\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:20:9-22:45
+657            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+657-->[com.google.android.gms:play-services-base:18.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\c547520cb26042a9b84a0eab537b0f7a\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:20:19-85
+658            android:exported="false"
+658-->[com.google.android.gms:play-services-base:18.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\c547520cb26042a9b84a0eab537b0f7a\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:22:19-43
+659            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+659-->[com.google.android.gms:play-services-base:18.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\c547520cb26042a9b84a0eab537b0f7a\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:21:19-78
+660
+661        <provider
+661-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Luwi\.gradle\caches\transforms-3\06e1462d1681af8351326a83a9298e87\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+662            android:name="com.google.firebase.provider.FirebaseInitProvider"
+662-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Luwi\.gradle\caches\transforms-3\06e1462d1681af8351326a83a9298e87\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+663            android:authorities="com.shuttleclone.userapp.firebaseinitprovider"
+663-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Luwi\.gradle\caches\transforms-3\06e1462d1681af8351326a83a9298e87\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+664            android:directBootAware="true"
+664-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Luwi\.gradle\caches\transforms-3\06e1462d1681af8351326a83a9298e87\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+665            android:exported="false"
+665-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Luwi\.gradle\caches\transforms-3\06e1462d1681af8351326a83a9298e87\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+666            android:initOrder="100" />
+666-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Luwi\.gradle\caches\transforms-3\06e1462d1681af8351326a83a9298e87\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+667
+668        <meta-data
+668-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\79ddef988317d27947bfbc05cd52a9ee\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+669            android:name="com.google.android.gms.version"
+669-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\79ddef988317d27947bfbc05cd52a9ee\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+670            android:value="@integer/google_play_services_version" />
+670-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\Luwi\.gradle\caches\transforms-3\79ddef988317d27947bfbc05cd52a9ee\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+671        <!--
+672         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+673         with the application context. This config is merged in with the host app's manifest,
+674         but there can only be one provider with the same authority activated at any given
+675         point; so if the end user has two or more different apps that use Facebook SDK, only the
+676         first one will be able to use the provider. To work around this problem, we use the
+677         following placeholder in the authority to identify each host application as if it was
+678         a completely different provider.
+679        -->
+680        <provider
+680-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:29:9-32:40
+681            android:name="com.facebook.internal.FacebookInitProvider"
+681-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:30:13-70
+682            android:authorities="com.shuttleclone.userapp.FacebookInitProvider"
+682-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:31:13-72
+683            android:exported="false" />
+683-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:32:13-37
+684
+685        <receiver
+685-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:34:9-40:20
+686            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+686-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:35:13-86
+687            android:exported="false" >
+687-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:36:13-37
+688            <intent-filter>
+688-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:37:13-39:29
+689                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+689-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:38:17-95
+689-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:38:25-92
+690            </intent-filter>
+691        </receiver>
+692        <receiver
+692-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:41:9-47:20
+693            android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver"
+693-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:42:13-118
+694            android:exported="false" >
+694-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:43:13-37
+695            <intent-filter>
+695-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:44:13-46:29
+696                <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED" />
+696-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:45:17-103
+696-->[com.facebook.android:facebook-core:16.0.1] C:\Users\Luwi\.gradle\caches\transforms-3\de6c9ea11a9bb37977b8cb591cc1b78e\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:45:25-100
+697            </intent-filter>
+698        </receiver>
+699
+700        <uses-library
+700-->[androidx.window:window:1.0.0] C:\Users\Luwi\.gradle\caches\transforms-3\d426adca138d5b0ee897efa9ca74fcda\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+701            android:name="androidx.window.extensions"
+701-->[androidx.window:window:1.0.0] C:\Users\Luwi\.gradle\caches\transforms-3\d426adca138d5b0ee897efa9ca74fcda\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+702            android:required="false" />
+702-->[androidx.window:window:1.0.0] C:\Users\Luwi\.gradle\caches\transforms-3\d426adca138d5b0ee897efa9ca74fcda\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+703        <uses-library
+703-->[androidx.window:window:1.0.0] C:\Users\Luwi\.gradle\caches\transforms-3\d426adca138d5b0ee897efa9ca74fcda\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+704            android:name="androidx.window.sidecar"
+704-->[androidx.window:window:1.0.0] C:\Users\Luwi\.gradle\caches\transforms-3\d426adca138d5b0ee897efa9ca74fcda\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+705            android:required="false" />
+705-->[androidx.window:window:1.0.0] C:\Users\Luwi\.gradle\caches\transforms-3\d426adca138d5b0ee897efa9ca74fcda\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+706
+707        <service
+707-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Luwi\.gradle\caches\transforms-3\a4ebfcd98f22ee5d2e9e068234745b26\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:28:9-34:19
+708            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+708-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Luwi\.gradle\caches\transforms-3\a4ebfcd98f22ee5d2e9e068234745b26\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:29:13-103
+709            android:exported="false" >
+709-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Luwi\.gradle\caches\transforms-3\a4ebfcd98f22ee5d2e9e068234745b26\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:30:13-37
+710            <meta-data
+710-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Luwi\.gradle\caches\transforms-3\a4ebfcd98f22ee5d2e9e068234745b26\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:31:13-33:39
+711                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+711-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Luwi\.gradle\caches\transforms-3\a4ebfcd98f22ee5d2e9e068234745b26\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:32:17-94
+712                android:value="cct" />
+712-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Luwi\.gradle\caches\transforms-3\a4ebfcd98f22ee5d2e9e068234745b26\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:33:17-36
+713        </service>
+714        <service
+714-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Luwi\.gradle\caches\transforms-3\a162371dc88fc1b9d00b564c4e43deba\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:26:9-30:19
+715            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+715-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Luwi\.gradle\caches\transforms-3\a162371dc88fc1b9d00b564c4e43deba\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:27:13-117
+716            android:exported="false"
+716-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Luwi\.gradle\caches\transforms-3\a162371dc88fc1b9d00b564c4e43deba\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:28:13-37
+717            android:permission="android.permission.BIND_JOB_SERVICE" >
+717-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Luwi\.gradle\caches\transforms-3\a162371dc88fc1b9d00b564c4e43deba\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:29:13-69
+718        </service>
+719
+720        <receiver
+720-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Luwi\.gradle\caches\transforms-3\a162371dc88fc1b9d00b564c4e43deba\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:32:9-34:40
+721            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+721-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Luwi\.gradle\caches\transforms-3\a162371dc88fc1b9d00b564c4e43deba\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:33:13-132
+722            android:exported="false" />
+722-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Luwi\.gradle\caches\transforms-3\a162371dc88fc1b9d00b564c4e43deba\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:34:13-37
+723        <receiver
+723-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+724            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+724-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+725            android:directBootAware="false"
+725-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+726            android:enabled="true"
+726-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+727            android:exported="true"
+727-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+728            android:permission="android.permission.DUMP" >
+728-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+729            <intent-filter>
+729-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+730                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+730-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+730-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+731            </intent-filter>
+732            <intent-filter>
+732-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+733                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+733-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+733-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+734            </intent-filter>
+735            <intent-filter>
+735-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+736                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+736-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+736-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+737            </intent-filter>
+738            <intent-filter>
+738-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+739                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+739-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+739-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+740            </intent-filter>
+741        </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
+742        <activity
+742-->[com.google.android.play:core-common:2.0.2] C:\Users\Luwi\.gradle\caches\transforms-3\d4a29d132e078a8130ecf361c398300f\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:14:9-18:65
+743            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+743-->[com.google.android.play:core-common:2.0.2] C:\Users\Luwi\.gradle\caches\transforms-3\d4a29d132e078a8130ecf361c398300f\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:15:13-93
+744            android:exported="false"
+744-->[com.google.android.play:core-common:2.0.2] C:\Users\Luwi\.gradle\caches\transforms-3\d4a29d132e078a8130ecf361c398300f\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:16:13-37
+745            android:stateNotNeeded="true"
+745-->[com.google.android.play:core-common:2.0.2] C:\Users\Luwi\.gradle\caches\transforms-3\d4a29d132e078a8130ecf361c398300f\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:17:13-42
+746            android:theme="@style/Theme.PlayCore.Transparent" />
+746-->[com.google.android.play:core-common:2.0.2] C:\Users\Luwi\.gradle\caches\transforms-3\d4a29d132e078a8130ecf361c398300f\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:18:13-62
+747    </application>
+748
+749</manifest>

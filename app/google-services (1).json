@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274379535250",
+    "project_id": "tiyendee-51402",
+    "storage_bucket": "tiyendee-51402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274379535250:android:fd6f041a42ec443474c74b",
+        "android_client_info": {
+          "package_name": "com.shuttleclone.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy1ONH8tbsL9GDHfhtcwJAhqQ_KxPjwnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

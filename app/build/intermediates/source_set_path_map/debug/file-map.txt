@@ -1,0 +1,79 @@
+com.shuttleclone.userapp-jetified-firebase-common-20.4.2-0 C:\Users\Luwi\.gradle\caches\transforms-3\06e1462d1681af8351326a83a9298e87\transformed\jetified-firebase-common-20.4.2\res
+com.shuttleclone.userapp-jetified-core-ktx-1.10.0-1 C:\Users\Luwi\.gradle\caches\transforms-3\12d7c3393d4ec58b21210103fa81e9f6\transformed\jetified-core-ktx-1.10.0\res
+com.shuttleclone.userapp-work-runtime-2.8.1-2 C:\Users\Luwi\.gradle\caches\transforms-3\133790d58e0e2ae2a4ee50214aa9d85a\transformed\work-runtime-2.8.1\res
+com.shuttleclone.userapp-jetified-play-services-measurement-api-21.5.0-3 C:\Users\Luwi\.gradle\caches\transforms-3\1451a88b06fb1a6877396bf4738a51b4\transformed\jetified-play-services-measurement-api-21.5.0\res
+com.shuttleclone.userapp-coordinatorlayout-1.2.0-4 C:\Users\Luwi\.gradle\caches\transforms-3\16f103d393efe1e46f48683221f8d5aa\transformed\coordinatorlayout-1.2.0\res
+com.shuttleclone.userapp-browser-1.4.0-5 C:\Users\Luwi\.gradle\caches\transforms-3\23ec579d1b4f5cf27702712a81485c8a\transformed\browser-1.4.0\res
+com.shuttleclone.userapp-jetified-play-services-maps-18.1.0-6 C:\Users\Luwi\.gradle\caches\transforms-3\28a20b6efa9580faf0a7c3e5c8ff168a\transformed\jetified-play-services-maps-18.1.0\res
+com.shuttleclone.userapp-jetified-android-maps-utils-3.4.0-7 C:\Users\Luwi\.gradle\caches\transforms-3\2909d702ac0a511884238f5f14d93dd8\transformed\jetified-android-maps-utils-3.4.0\res
+com.shuttleclone.userapp-lifecycle-livedata-core-2.6.1-8 C:\Users\Luwi\.gradle\caches\transforms-3\2960ecf1fc26161d0aa537d06123fc05\transformed\lifecycle-livedata-core-2.6.1\res
+com.shuttleclone.userapp-constraintlayout-2.1.4-9 C:\Users\Luwi\.gradle\caches\transforms-3\2cf8573df874e337a961e97fea59a8f9\transformed\constraintlayout-2.1.4\res
+com.shuttleclone.userapp-recyclerview-1.3.0-10 C:\Users\Luwi\.gradle\caches\transforms-3\2e4be2c685c8a34994da5857f6427dfb\transformed\recyclerview-1.3.0\res
+com.shuttleclone.userapp-sqlite-framework-2.3.1-11 C:\Users\Luwi\.gradle\caches\transforms-3\333826ef60bf72ef08fd5a3bdde5df91\transformed\sqlite-framework-2.3.1\res
+com.shuttleclone.userapp-jetified-facebook-common-16.0.1-12 C:\Users\Luwi\.gradle\caches\transforms-3\385bf3a05c270d34a726c083a0c3f732\transformed\jetified-facebook-common-16.0.1\res
+com.shuttleclone.userapp-jetified-preference-ktx-1.2.0-13 C:\Users\Luwi\.gradle\caches\transforms-3\3909fcf27b9f942ce4c61dcd57eead3a\transformed\jetified-preference-ktx-1.2.0\res
+com.shuttleclone.userapp-lifecycle-livedata-2.6.1-14 C:\Users\Luwi\.gradle\caches\transforms-3\4019f863a57a45d73b4c5738bbddc0ad\transformed\lifecycle-livedata-2.6.1\res
+com.shuttleclone.userapp-jetified-ads-adservices-java-1.0.0-beta05-15 C:\Users\Luwi\.gradle\caches\transforms-3\43ad27db201e8362d641e3e06f5248a4\transformed\jetified-ads-adservices-java-1.0.0-beta05\res
+com.shuttleclone.userapp-jetified-emoji2-views-helper-1.2.0-16 C:\Users\Luwi\.gradle\caches\transforms-3\44f4c136bd21592ec529d14593f452c8\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.shuttleclone.userapp-jetified-facebook-login-16.0.1-17 C:\Users\Luwi\.gradle\caches\transforms-3\463b86be16e04730ad741b99132ca64f\transformed\jetified-facebook-login-16.0.1\res
+com.shuttleclone.userapp-jetified-customview-poolingcontainer-1.0.0-18 C:\Users\Luwi\.gradle\caches\transforms-3\496e8c045d880e3842a082c8c4d1771c\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.shuttleclone.userapp-jetified-play-services-appinvite-17.0.0-19 C:\Users\Luwi\.gradle\caches\transforms-3\4b46972a69819542d418cb04f3f61798\transformed\jetified-play-services-appinvite-17.0.0\res
+com.shuttleclone.userapp-jetified-lifecycle-runtime-ktx-2.6.1-20 C:\Users\Luwi\.gradle\caches\transforms-3\5687d023496d5ddda87f130d5ee15b23\transformed\jetified-lifecycle-runtime-ktx-2.6.1\res
+com.shuttleclone.userapp-jetified-appcompat-resources-1.6.1-21 C:\Users\Luwi\.gradle\caches\transforms-3\599fb12126b0fcf8316300a5653348ce\transformed\jetified-appcompat-resources-1.6.1\res
+com.shuttleclone.userapp-jetified-play-services-gcm-17.0.0-22 C:\Users\Luwi\.gradle\caches\transforms-3\5c408dcfab56eaeed14e04d59a85d033\transformed\jetified-play-services-gcm-17.0.0\res
+com.shuttleclone.userapp-lifecycle-runtime-2.6.1-23 C:\Users\Luwi\.gradle\caches\transforms-3\61e92b548521339f12ad6d78a51d1935\transformed\lifecycle-runtime-2.6.1\res
+com.shuttleclone.userapp-jetified-places-3.1.0-24 C:\Users\Luwi\.gradle\caches\transforms-3\66ebc1904a37d7563dfe37faf29745e3\transformed\jetified-places-3.1.0\res
+com.shuttleclone.userapp-jetified-Pdf-Viewer-v1.0.7-25 C:\Users\Luwi\.gradle\caches\transforms-3\66ee4ca78402d664b6553e37f7d9af23\transformed\jetified-Pdf-Viewer-v1.0.7\res
+com.shuttleclone.userapp-jetified-lifecycle-viewmodel-ktx-2.6.1-26 C:\Users\Luwi\.gradle\caches\transforms-3\71ceca72ae7dc3ec5f91ee9179661bb4\transformed\jetified-lifecycle-viewmodel-ktx-2.6.1\res
+com.shuttleclone.userapp-sqlite-2.3.1-27 C:\Users\Luwi\.gradle\caches\transforms-3\73b042e3d06f06dfbaf8df1ef83bf303\transformed\sqlite-2.3.1\res
+com.shuttleclone.userapp-fragment-1.3.6-28 C:\Users\Luwi\.gradle\caches\transforms-3\7477e9d1cbc47cc33687bfef3cc78417\transformed\fragment-1.3.6\res
+com.shuttleclone.userapp-material-1.8.0-29 C:\Users\Luwi\.gradle\caches\transforms-3\77c85c7bb1462f1b8cd84cbeff53db52\transformed\material-1.8.0\res
+com.shuttleclone.userapp-jetified-play-services-basement-18.2.0-30 C:\Users\Luwi\.gradle\caches\transforms-3\79ddef988317d27947bfbc05cd52a9ee\transformed\jetified-play-services-basement-18.2.0\res
+com.shuttleclone.userapp-jetified-viewpager2-1.0.0-31 C:\Users\Luwi\.gradle\caches\transforms-3\79f58053f66044ce90b5a2e9b4153346\transformed\jetified-viewpager2-1.0.0\res
+com.shuttleclone.userapp-jetified-savedstate-ktx-1.2.1-32 C:\Users\Luwi\.gradle\caches\transforms-3\7ce302460f3ed59888aefa981538547f\transformed\jetified-savedstate-ktx-1.2.1\res
+com.shuttleclone.userapp-core-1.10.0-33 C:\Users\Luwi\.gradle\caches\transforms-3\7ede12925ad542455873bedd33663f56\transformed\core-1.10.0\res
+com.shuttleclone.userapp-jetified-ccp-2.7.0-34 C:\Users\Luwi\.gradle\caches\transforms-3\817ed004e9bb75fa9f0ff32ef876513c\transformed\jetified-ccp-2.7.0\res
+com.shuttleclone.userapp-core-runtime-2.2.0-35 C:\Users\Luwi\.gradle\caches\transforms-3\8381870022b602e617514baa33d0b91c\transformed\core-runtime-2.2.0\res
+com.shuttleclone.userapp-jetified-sdp-android-1.1.0-36 C:\Users\Luwi\.gradle\caches\transforms-3\8f62fdfe067ac4d83f7be54a1d9ab97b\transformed\jetified-sdp-android-1.1.0\res
+com.shuttleclone.userapp-jetified-firebase-messaging-23.3.1-37 C:\Users\Luwi\.gradle\caches\transforms-3\8fa86699395b1594259b0e0bd98ac7c4\transformed\jetified-firebase-messaging-23.3.1\res
+com.shuttleclone.userapp-jetified-androidsvg-aar-1.4-38 C:\Users\Luwi\.gradle\caches\transforms-3\9226981c7842824a17cf4d1576339348\transformed\jetified-androidsvg-aar-1.4\res
+com.shuttleclone.userapp-jetified-profileinstaller-1.3.0-39 C:\Users\Luwi\.gradle\caches\transforms-3\92b6a13ab5d636079ef76082e5d7d919\transformed\jetified-profileinstaller-1.3.0\res
+com.shuttleclone.userapp-jetified-startup-runtime-1.1.1-40 C:\Users\Luwi\.gradle\caches\transforms-3\94efdb8d1284e606765b13d3cc4d1c92\transformed\jetified-startup-runtime-1.1.1\res
+com.shuttleclone.userapp-drawerlayout-1.1.1-41 C:\Users\Luwi\.gradle\caches\transforms-3\961adcf851ea135a0f17f1ff575f775b\transformed\drawerlayout-1.1.1\res
+com.shuttleclone.userapp-room-runtime-2.5.1-42 C:\Users\Luwi\.gradle\caches\transforms-3\98b40eacec7458543556721f3da69c73\transformed\room-runtime-2.5.1\res
+com.shuttleclone.userapp-jetified-checkout-1.6.30-43 C:\Users\Luwi\.gradle\caches\transforms-3\9ac783166f81376269e2129dac8ce729\transformed\jetified-checkout-1.6.30\res
+com.shuttleclone.userapp-transition-1.4.1-44 C:\Users\Luwi\.gradle\caches\transforms-3\9b550b6b09cccb72e5390ae7f075e78d\transformed\transition-1.4.1\res
+com.shuttleclone.userapp-jetified-play-services-auth-20.5.0-45 C:\Users\Luwi\.gradle\caches\transforms-3\b1185e67cb403f8fdebeac6f7831af19\transformed\jetified-play-services-auth-20.5.0\res
+com.shuttleclone.userapp-appcompat-1.6.1-46 C:\Users\Luwi\.gradle\caches\transforms-3\bf8d0ff550a1b8bbabaf05c304b9ead5\transformed\appcompat-1.6.1\res
+com.shuttleclone.userapp-media-1.0.0-47 C:\Users\Luwi\.gradle\caches\transforms-3\c0a5c507fe0423873d78866cce6f7187\transformed\media-1.0.0\res
+com.shuttleclone.userapp-jetified-viewpagerdotsindicator-4.1.2-48 C:\Users\Luwi\.gradle\caches\transforms-3\c452b4b694f5bf50aac63a3a4d9781d9\transformed\jetified-viewpagerdotsindicator-4.1.2\res
+com.shuttleclone.userapp-jetified-play-services-base-18.2.0-49 C:\Users\Luwi\.gradle\caches\transforms-3\c547520cb26042a9b84a0eab537b0f7a\transformed\jetified-play-services-base-18.2.0\res
+com.shuttleclone.userapp-work-runtime-ktx-2.8.1-50 C:\Users\Luwi\.gradle\caches\transforms-3\c66de7a53f20906f3cb942d93a9a72e0\transformed\work-runtime-ktx-2.8.1\res
+com.shuttleclone.userapp-cardview-1.0.0-51 C:\Users\Luwi\.gradle\caches\transforms-3\cc5da520a1cc79bd4925a16ce36d0f94\transformed\cardview-1.0.0\res
+com.shuttleclone.userapp-lifecycle-viewmodel-2.6.1-52 C:\Users\Luwi\.gradle\caches\transforms-3\cea6919195c28e7a687d9ebedee66f92\transformed\lifecycle-viewmodel-2.6.1\res
+com.shuttleclone.userapp-jetified-activity-ktx-1.6.0-53 C:\Users\Luwi\.gradle\caches\transforms-3\cf138061d3986fa29b5941d7294327a5\transformed\jetified-activity-ktx-1.6.0\res
+com.shuttleclone.userapp-jetified-activity-1.6.0-54 C:\Users\Luwi\.gradle\caches\transforms-3\cf260e6281c435d0195d666a785187c2\transformed\jetified-activity-1.6.0\res
+com.shuttleclone.userapp-jetified-lifecycle-service-2.6.1-55 C:\Users\Luwi\.gradle\caches\transforms-3\d2f10aac623c473ae2e4ad491f091967\transformed\jetified-lifecycle-service-2.6.1\res
+com.shuttleclone.userapp-jetified-emoji2-1.2.0-56 C:\Users\Luwi\.gradle\caches\transforms-3\d36e137b0b8cc9f3c7f09ef929c24e37\transformed\jetified-emoji2-1.2.0\res
+com.shuttleclone.userapp-jetified-window-1.0.0-57 C:\Users\Luwi\.gradle\caches\transforms-3\d426adca138d5b0ee897efa9ca74fcda\transformed\jetified-window-1.0.0\res
+com.shuttleclone.userapp-jetified-core-common-2.0.2-58 C:\Users\Luwi\.gradle\caches\transforms-3\d4a29d132e078a8130ecf361c398300f\transformed\jetified-core-common-2.0.2\res
+com.shuttleclone.userapp-jetified-glide-4.15.1-59 C:\Users\Luwi\.gradle\caches\transforms-3\d9bf549ece7b04c1a31070be8871f845\transformed\jetified-glide-4.15.1\res
+com.shuttleclone.userapp-slidingpanelayout-1.2.0-60 C:\Users\Luwi\.gradle\caches\transforms-3\e226c5808e0ae6aef9f794dc0267e205\transformed\slidingpanelayout-1.2.0\res
+com.shuttleclone.userapp-jetified-lifecycle-viewmodel-savedstate-2.6.1-61 C:\Users\Luwi\.gradle\caches\transforms-3\e7d1de65295307a70598feceec5bfc50\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.shuttleclone.userapp-preference-1.2.0-62 C:\Users\Luwi\.gradle\caches\transforms-3\e81ab8cdab6ffd51fc43964a0d56cbcf\transformed\preference-1.2.0\res
+com.shuttleclone.userapp-jetified-lifecycle-livedata-core-ktx-2.6.1-63 C:\Users\Luwi\.gradle\caches\transforms-3\eb1d9f2140069a05dc89b791a2f3bbca\transformed\jetified-lifecycle-livedata-core-ktx-2.6.1\res
+com.shuttleclone.userapp-jetified-ads-adservices-1.0.0-beta05-64 C:\Users\Luwi\.gradle\caches\transforms-3\ef3a9eea4b888a53028dbce9380c99e7\transformed\jetified-ads-adservices-1.0.0-beta05\res
+com.shuttleclone.userapp-jetified-savedstate-1.2.1-65 C:\Users\Luwi\.gradle\caches\transforms-3\f05a683a4bc6a3ef0491616f4e2edbe1\transformed\jetified-savedstate-1.2.1\res
+com.shuttleclone.userapp-jetified-annotation-experimental-1.3.0-66 C:\Users\Luwi\.gradle\caches\transforms-3\f13a482fd09868ef85c6b2384bc559fd\transformed\jetified-annotation-experimental-1.3.0\res
+com.shuttleclone.userapp-jetified-lifecycle-process-2.6.1-67 C:\Users\Luwi\.gradle\caches\transforms-3\f663ad9dfb9a25c81a4ed1eceb4f136a\transformed\jetified-lifecycle-process-2.6.1\res
+com.shuttleclone.userapp-jetified-circleimageview-3.1.0-68 C:\Users\Luwi\.gradle\caches\transforms-3\fa7759a8a8d50a146d993b9a76edcd65\transformed\jetified-circleimageview-3.1.0\res
+com.shuttleclone.userapp-jetified-play-services-wallet-18.1.3-69 C:\Users\Luwi\.gradle\caches\transforms-3\fb78a6be74d0477bfae3712b01069316\transformed\jetified-play-services-wallet-18.1.3\res
+com.shuttleclone.userapp-google-services-70 C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\build\generated\res\google-services\debug
+com.shuttleclone.userapp-pngs-71 C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\build\generated\res\pngs\debug
+com.shuttleclone.userapp-resValues-72 C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\build\generated\res\resValues\debug
+com.shuttleclone.userapp-rs-73 C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\build\generated\res\rs\debug
+com.shuttleclone.userapp-mergeDebugResources-74 C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.shuttleclone.userapp-mergeDebugResources-75 C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.shuttleclone.userapp-merged_res-76 C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\build\intermediates\merged_res\debug
+com.shuttleclone.userapp-debug-77 C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\debug\res
+com.shuttleclone.userapp-main-78 C:\Users\Luwi\Desktop\Tiyende apps\Shuttle User\app\src\main\res

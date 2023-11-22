@@ -1,0 +1,1542 @@
+[
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_radio_background_custom_mode_left.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/radio_background_custom_mode_left.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_checkbox_selected.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/checkbox_selected.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-mdpi_ic_package.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-mdpi/ic_package.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_circle_shape.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_circle_shape.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-anydpi-v24_ic_whatsapp_fill.xml.flat",
+        "source": "com.shuttleclone.userapp-pngs-71:/drawable-anydpi-v24/ic_whatsapp_fill.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_language_update_dialog.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/language_update_dialog.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_screen_4.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/screen_4.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_layout_notification.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/layout_notification.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xhdpi_ic_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xhdpi/ic_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_keyboard_arrow_down_black.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_keyboard_arrow_down_black.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_routes.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_routes.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_ticket.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_ticket.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_dialog_full_qrcode.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/dialog_full_qrcode.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-ldrtl_bg_hold.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-ldrtl/bg_hold.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_keyboard_arrow_left_black_24dp.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_keyboard_arrow_left_black_24dp.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_horizontal_dotted_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_horizontal_dotted_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_baseline_home_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_item_viewoffer.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/item_viewoffer.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xhdpi_ic_home.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xhdpi/ic_home.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_qr_code.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/qr_code.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_app_logo.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_app_logo.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-hdpi_ic_package.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-hdpi/ic_package.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_user_settings_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_user_settings_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_border.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_border.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_hold.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_hold.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_item_newoffers.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/item_newoffers.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_arrow_right_s_fill.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_arrow_right_s_fill.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xhdpi_ic_package_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xhdpi/ic_package_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_failure_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_failure_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_delete_black_24dp.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_delete_black_24dp.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_permision.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_permision.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_dote.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_dote.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_search_result_adapter_layout.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/search_result_adapter_layout.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_facebook_fill.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_facebook_fill.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_refer_and_earn.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_refer_and_earn.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxxhdpi_ic_home_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxxhdpi/ic_home_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_keyboard_arrow_up_black.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_keyboard_arrow_up_black.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_wallet_history.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_wallet_history.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_layout_hold.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/layout_hold.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_item_wallet_history.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/item_wallet_history.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_leftswitch_select.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_leftswitch_select.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_search_black_24dp.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_passenger_detail.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_passenger_detail.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-hdpi_ic_notification_logo.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-hdpi/ic_notification_logo.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_checkbox_unselected.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/checkbox_unselected.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_horizontal_solid_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_horizontal_solid_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_suggest_route.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_suggest_route.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxhdpi_ic_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxhdpi/ic_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/font_googlesansbold.ttf.flat",
+        "source": "com.shuttleclone.userapp-main-78:/font/googlesansbold.ttf"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_checkbox_circle_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_checkbox_circle_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_bus_list.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_bus_list.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-hdpi_ic_home.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-hdpi/ic_home.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_route_stops_layout.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/route_stops_layout.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_fragment_more.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/fragment_more.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_arrow_forward_black.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_arrow_forward_black.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/raw_map_style.json.flat",
+        "source": "com.shuttleclone.userapp-main-78:/raw/map_style.json"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_hotel_bed_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_hotel_bed_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_pass_details.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_pass_details.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_filter_fill.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_filter_fill.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_notification.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_notification.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxhdpi_ic_home.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxhdpi/ic_home.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_layout_routes_adapt.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/layout_routes_adapt.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_fragment_booking.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/fragment_booking.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_office_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_office_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_item_recentsearch.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/item_recentsearch.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_eye_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_eye_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_circle_tint.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_circle_tint.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxxhdpi_ic_booking_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxxhdpi/ic_booking_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_include_title_bar.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/include_title_bar.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_seater.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_seater.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_wc_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_wc_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_nonac.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_nonac.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_selection.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_selection.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_dot.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_dot.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_explore.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_explore.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_baseline_info_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/menu_navigationmenu.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/menu/navigationmenu.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_fragment_intro.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/fragment_intro.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_offers.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_offers.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_vertical_solid_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/vertical_solid_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_radio_background_custom_mode_right.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/radio_background_custom_mode_right.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_fragment_search_location_dialog.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/fragment_search_location_dialog.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_arrow_drop_up_black_24dp.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_arrow_drop_up_black_24dp.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_usb_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_usb_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_pin_distance_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_pin_distance_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_circle_background.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_anim_up_to_down.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/anim_up_to_down.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_payment_received_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_payment_received_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_fragment_search_location_dialog.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/fragment_search_location_dialog.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/raw_ic_logo.gif.flat",
+        "source": "com.shuttleclone.userapp-main-78:/raw/ic_logo.gif"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_adp_pass_layout.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/adp_pass_layout.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxxhdpi_ic_more_fill2.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxxhdpi/ic_more_fill2.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_layout_payment_process_type.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/layout_payment_process_type.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxhdpi_ic_package_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxhdpi/ic_package_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_rightswitch.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_rightswitch.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_booking.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_booking.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-mdpi_ic_home.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-mdpi/ic_home.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_add_circle_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_add_circle_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_close_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_close_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_calendar_event_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_calendar_event_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_item_available_bus.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/item_available_bus.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/mipmap-xxxhdpi_map_bus.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/mipmap-xxxhdpi/map_bus.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_item_dropping1.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/item_dropping1.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxxhdpi_ic_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxxhdpi/ic_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_anim_bus.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/anim_bus.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_fade_in.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_ticket_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_ticket_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_select_stepper.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_select_stepper.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_keyboard_arrow_grey.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_keyboard_arrow_grey.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_temp.jpeg.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_temp.jpeg"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_booking_trans_history.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_booking_trans_history.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xhdpi_ic_booking_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xhdpi/ic_booking_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_pencil_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_pencil_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_ac_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_ac_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bus_stop_pin3.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bus_stop_pin3.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_track_routes.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_track_routes.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_item_app_notifications.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/item_app_notifications.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_enter_from_left.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/enter_from_left.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxxhdpi_ic_home.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxxhdpi/ic_home.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_eye_off_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_eye_off_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_exit_to_right.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/exit_to_right.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_fragment_more.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/fragment_more.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_goa.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_goa.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_bus_stop.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_bus_stop.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_item_card.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/item_card.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_list_item_seat.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/list_item_seat.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_earth_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_earth_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_sign_in.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-mdpi_ic_whatsapp_fill.png.flat",
+        "source": "com.shuttleclone.userapp-pngs-71:/drawable-mdpi/ic_whatsapp_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_selected_circle_bg.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/selected_circle_bg.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_activity_profile.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/activity_profile.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_exit_to_left.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/exit_to_left.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_map.jpg.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_map.jpg"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_layout_addnotification.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/layout_addnotification.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxxhdpi_ic_whatsapp_fill.png.flat",
+        "source": "com.shuttleclone.userapp-pngs-71:/drawable-xxxhdpi/ic_whatsapp_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_logout_circle_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_logout_circle_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_text_bg_gradient.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/text_bg_gradient.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_sleeper.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_sleeper.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_bank_card_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_bank_card_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_loading_line_vector.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/loading_line_vector.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_rating.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/rating.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxhdpi_ic_notification_logo.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxhdpi/ic_notification_logo.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_item_newoffers.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/item_newoffers.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_item_available_bus.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/item_available_bus.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_activity_booking.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/activity_booking.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_radio_border.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/radio_border.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_webview_payment.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_webview_payment.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xhdpi_ic_whatsapp_fill.png.flat",
+        "source": "com.shuttleclone.userapp-pngs-71:/drawable-xhdpi/ic_whatsapp_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_set_reminder.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_set_reminder.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_hotel_fill.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_hotel_fill.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_booked_pass_dtls.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_booked_pass_dtls.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_briefcase.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_briefcase.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_item_booking.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/item_booking.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_radio_text_custom_mode.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/radio_text_custom_mode.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_location_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_location_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_activity_set_reminder.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/activity_set_reminder.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_search.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_delhi.jpg.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_delhi.jpg"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_arrow_drop_down_black_24dp.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_arrow_drop_down_black_24dp.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_canceled.jpg.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_canceled.jpg"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_package.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_package.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_weel.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_weel.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxhdpi_ic_more_fill2.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxhdpi/ic_more_fill2.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-mdpi_bus_stop_pin.png.flat",
+        "source": "com.shuttleclone.userapp-pngs-71:/drawable-mdpi/bus_stop_pin.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_wallet_3_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_wallet_3_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_left_arrow_white.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_left_arrow_white.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_notification_4_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_notification_4_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_square_text.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_square_text.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_swap_horizontal.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/swap_horizontal.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_item_cancel.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/item_cancel.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxxhdpi_bus_stop_pin.png.flat",
+        "source": "com.shuttleclone.userapp-pngs-71:/drawable-xxxhdpi/bus_stop_pin.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_baseline_circle_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_baseline_circle_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_payment.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_item_wallet_history.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/item_wallet_history.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_intro.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_profile.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_confirm_payment.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_confirm_payment.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_star_black_24dp.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_star_black_24dp.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_bus_marker.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_bus_marker.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxxhdpi_icon_1.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxxhdpi/icon_1.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/font_googlesanslight.ttf.flat",
+        "source": "com.shuttleclone.userapp-main-78:/font/googlesanslight.ttf"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bus_stop_pin2.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bus_stop_pin2.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_layout_payment_process_type.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/layout_payment_process_type.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_card.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_card.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_common_shape.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_common_shape.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-mdpi_icon_1.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-mdpi/icon_1.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_slide_in_right.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_udaipur.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_udaipur.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/xml_provider_paths.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-mdpi_ic_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-mdpi/ic_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_gr_wallet.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_gr_wallet.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_list_item_sleeper.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/list_item_sleeper.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_rightswitch_select.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_rightswitch_select.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_map_pin_2_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_map_pin_2_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxhdpi_icon_1.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxhdpi/icon_1.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/mipmap-hdpi_map_bus.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/mipmap-hdpi/map_bus.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-mdpi_ic_booking_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-mdpi/ic_booking_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_layout_routes_adapt.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/layout_routes_adapt.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_activity_sign_in.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_history_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_history_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_enter_from_right.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/enter_from_right.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_bus_fill.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_bus_fill.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_tint_icon.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_tint_icon.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-ldpi_ic_whatsapp_fill.png.flat",
+        "source": "com.shuttleclone.userapp-pngs-71:/drawable-ldpi/ic_whatsapp_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_restaurant_fill.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_restaurant_fill.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_swap_horizontal_bold.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/swap_horizontal_bold.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_anim_slide_bottom.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/anim_slide_bottom.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_screen_3.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/screen_3.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_phone_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_phone_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_card_detail.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_card_detail.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_amritsar.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_amritsar.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_payment_made_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_payment_made_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_home_wifi_fill.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_home_wifi_fill.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_app_notifications.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_app_notifications.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_selected_rounded.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_selected_rounded.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_terms.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_terms.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_spinner_items.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/spinner_items.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/raw_new_map_style.json.flat",
+        "source": "com.shuttleclone.userapp-main-78:/raw/new_map_style.json"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_dotted.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_dotted.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-mdpi_ic_more_fill2.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-mdpi/ic_more_fill2.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxxhdpi_ic_package_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxxhdpi/ic_package_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-mdpi_ic_package_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-mdpi/ic_package_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_item_dropping1.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/item_dropping1.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_keyboard_backspace_black.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_keyboard_backspace_black.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_activity_bus_list.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/activity_bus_list.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_vertical_dotted_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/vertical_dotted_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_anim_slide_up.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/anim_slide_up.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xhdpi_ic_booking.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xhdpi/ic_booking.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_bus_routes.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_bus_routes.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_shuttle_logo.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/shuttle_logo.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_item_passenger1.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/item_passenger1.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-hdpi_icon_1.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-hdpi/icon_1.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_search_result_adapter_layout.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/search_result_adapter_layout.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/mipmap-xxhdpi_map_bus.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/mipmap-xxhdpi/map_bus.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_app_round_logo.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_app_round_logo.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_fragment_offers.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/fragment_offers.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_item_recentsearch.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/item_recentsearch.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_dialog_failure.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/dialog_failure.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_dropping_point.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_dropping_point.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-mdpi_ic_home_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-mdpi/ic_home_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-hdpi_ic_booking_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-hdpi/ic_booking_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxhdpi_ic_whatsapp_fill.png.flat",
+        "source": "com.shuttleclone.userapp-pngs-71:/drawable-xxhdpi/ic_whatsapp_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_booking_cancel_dialog.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/booking_cancel_dialog.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_activity_wallet.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/activity_wallet.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_slide_in_up.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_screen_1.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/screen_1.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_dashboard.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_activity_pass_details.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/activity_pass_details.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/font_googlesansextrabold.ttf.flat",
+        "source": "com.shuttleclone.userapp-main-78:/font/googlesansextrabold.ttf"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_booking_trans_history_lay.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/booking_trans_history_lay.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_anim_rotate.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/anim_rotate.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_activity_suggest_route.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/activity_suggest_route.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_sale_2.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_sale_2.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_slide_in_left.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/raw_gif_bell.gif.flat",
+        "source": "com.shuttleclone.userapp-main-78:/raw/gif_bell.gif"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_twitter.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_twitter.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_anim_uptodown.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/anim_uptodown.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xhdpi_ic_notification_logo.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xhdpi/ic_notification_logo.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_verification.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_verification.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-anydpi-v24_bus_stop_pin.xml.flat",
+        "source": "com.shuttleclone.userapp-pngs-71:/drawable-anydpi-v24/bus_stop_pin.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_fade_out.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxhdpi_ic_home_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxhdpi/ic_home_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_rounded_border_edittext.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_rounded_border_edittext.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_layout_hold.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/layout_hold.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_fragment_home.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/fragment_home.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-mdpi_ic_booking.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-mdpi/ic_booking.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-hdpi_ic_booking.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-hdpi/ic_booking.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_card3.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_card3.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_shape_notification.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_shape_notification.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_search_2_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_search_2_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_pass.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_pass.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_round_cancel_24px.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_round_cancel_24px.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_layout_bottom_bar.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/layout_bottom_bar.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_home.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_home.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_round_gradient.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/round_gradient.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_leftswitch.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_leftswitch.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_tv_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_tv_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_bottom.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_bottom.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxxhdpi_ic_booking.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxxhdpi/ic_booking.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxhdpi_ic_booking_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxhdpi/ic_booking_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_card.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_card.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_item_package.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/item_package.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_file.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_file.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_keyboard_arrow_right.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_keyboard_arrow_right.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_question_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_question_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxhdpi_ic_booking.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxhdpi/ic_booking.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_circle.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_circle.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_language_update_dialog.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/language_update_dialog.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_trip_status_item_adapter.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/trip_status_item_adapter.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_wallet_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_wallet_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_layout_stops_adapt.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/layout_stops_adapt.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_gps_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_gps_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxhdpi_bus_stop_pin.png.flat",
+        "source": "com.shuttleclone.userapp-pngs-71:/drawable-xxhdpi/bus_stop_pin.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_initial.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_initial.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xhdpi_bus_stop_pin.png.flat",
+        "source": "com.shuttleclone.userapp-pngs-71:/drawable-xhdpi/bus_stop_pin.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_money_dollar_circle_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_money_dollar_circle_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_item_notification.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/item_notification.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_btn_clicked_efect.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/btn_clicked_efect.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_help.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_help.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_custom_toast.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/custom_toast.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_fragment_scheduled_booking.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/fragment_scheduled_booking.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_website_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_website_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_card.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_gr_mobile_otp.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_gr_mobile_otp.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_buslogo.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_buslogo.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_checkbox_circle.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_checkbox_circle.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xhdpi_icon_1.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xhdpi/icon_1.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_activity_confirm_payment.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/activity_confirm_payment.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_stop_status_adapter_layout.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/stop_status_adapter_layout.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_time_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_time_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_fragment_mybooking.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/fragment_mybooking.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_item_cancel.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/item_cancel.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/mipmap-xhdpi_map_bus.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/mipmap-xhdpi/map_bus.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_checkbox_selector.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/checkbox_selector.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxxhdpi_ic_notification_logo.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxxhdpi/ic_notification_logo.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_baseline_pass_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_baseline_pass_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-mdpi_ic_notification_logo.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-mdpi/ic_notification_logo.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_toolbar.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_toolbar.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_alert_dailog_layout.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/alert_dailog_layout.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_wifi_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_wifi_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_dialog_filter.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/dialog_filter.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_slide_out_up.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/slide_out_up.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xhdpi_ic_package.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xhdpi/ic_package.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_activity_passenger_detail.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/activity_passenger_detail.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-hdpi_ic_whatsapp_fill.png.flat",
+        "source": "com.shuttleclone.userapp-pngs-71:/drawable-hdpi/ic_whatsapp_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_more_fill.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_more_fill.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_refer_earn.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_refer_earn.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_booking_trans_history_lay.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/booking_trans_history_lay.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_set_reminder_layout.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/set_reminder_layout.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_add_black_24dp.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_snacks.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_snacks.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_hold.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/hold.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_travel.jpg.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_travel.jpg"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_item_viewpackage.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/item_viewpackage.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_profile.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_profile.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xhdpi_ic_more_fill2.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xhdpi/ic_more_fill2.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-hdpi_ic_more_fill2.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-hdpi/ic_more_fill2.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_fragment_home.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/anim_slide_down_top.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/anim/slide_down_top.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_setting.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_policy.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_policy.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxxhdpi_ic_package.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxxhdpi/ic_package.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_my_location_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_my_location_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-hdpi_ic_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-hdpi/ic_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_route_stops_layout.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/route_stops_layout.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_bus_stop_24.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_bus_stop_24.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_square_box.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_square_box.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xhdpi_ic_home_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xhdpi/ic_home_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/xml_network_security_config.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_settings.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_bottom_shadow.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_bottom_shadow.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_sale_1.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_sale_1.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_stop_status_adapter_layout.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/stop_status_adapter_layout.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_bus_2_fill.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_bus_2_fill.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_square.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_square.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_bg_btn_shape.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/bg_btn_shape.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_suggest_routes.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/suggest_routes.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_newseater.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_newseater.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_bus.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_bus.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/font_googlesansregular.ttf.flat",
+        "source": "com.shuttleclone.userapp-main-78:/font/googlesansregular.ttf"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_dialog_success.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/dialog_success.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/mipmap-mdpi_map_bus.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/mipmap-mdpi/map_bus.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-hdpi_bus_stop_pin.png.flat",
+        "source": "com.shuttleclone.userapp-pngs-71:/drawable-hdpi/bus_stop_pin.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-hdpi_ic_home_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-hdpi/ic_home_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_item_app_notifications.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/item_app_notifications.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_screen_2.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/screen_2.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_set_reminder_layout.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/set_reminder_layout.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_item_booking.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/item_booking.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_splash.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_wallet.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_wallet.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-xxhdpi_ic_package.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-xxhdpi/ic_package.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_completed.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_completed.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_snowflake_shape.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_snowflake_shape.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_image_slider_item.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/image_slider_item.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_activity_viwe_invoice.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/activity_viwe_invoice.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_activity_help.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/activity_help.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_andamans.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_andamans.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout_rate_app_dialog.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout/rate_app_dialog.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_google_fill.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_google_fill.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_ic_home_4_line.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/ic_home_4_line.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable_radio_background_custom_mode.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable/radio_background_custom_mode.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-ldpi_bus_stop_pin.png.flat",
+        "source": "com.shuttleclone.userapp-pngs-71:/drawable-ldpi/bus_stop_pin.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_activity_initial.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/activity_initial.xml"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/drawable-hdpi_ic_package_fill.png.flat",
+        "source": "com.shuttleclone.userapp-main-78:/drawable-hdpi/ic_package_fill.png"
+    },
+    {
+        "merged": "com.shuttleclone.userapp-merged_res-76:/layout-ldrtl_layout_stops_adapt.xml.flat",
+        "source": "com.shuttleclone.userapp-main-78:/layout-ldrtl/layout_stops_adapt.xml"
+    }
+]

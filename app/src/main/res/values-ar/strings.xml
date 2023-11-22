@@ -1,0 +1,415 @@
+<resources>
+    <string name="txt_term_and_policy"><![CDATA[<p>من خلال الاستمرار، فإنك توافق على لدينا <a href=\"https://demoshuttle.ridein.in/#/terms\">شروط الخدمة</a> <a href=\"https://demoshuttle.ridein.in/#/privacy-policy\">سياسة الخصوصية</a><p>]]></string>
+
+    <string name="txt_country_code">+20</string>
+    <string name="txt_bus_available">الحافلة متاحة</string>
+    <string name="text_seat">مقعد</string>
+    <string name="send_to">شارك باستخدام</string>
+    <string name="txtYourCode">الرمز الخاص بك:</string>
+    <string name="txtTotalEarning">إجمالي الأرباح</string>
+    <string name="txt_your_link">الرابط الخاص بك :</string>
+    <string name="text_get_100_when_your_friend_complete_trip_with_us">الآن قم بدعوة أصدقائك وزملائك واكسب أرصدة كثيرة في محفظتك. كيف تعمل؟
+1. ادعُ صديقًا لاستخدام تطبيقنا باستخدام رمز الإحالة الخاص بك. يحصل صديقك على رصيد بقيمة 100 جنية في المحفظة عند التسجيل.
+2. تحصل على أرصدة 100 جنية عندما يؤكد صديق (إتمام الحجز بعد الصعود) رحلتهم المدفوعة 1 ".
+3. يمكنك استخدام الأرصدة لحجز رحلتك (رحلاتك) التالية.
+    </string>
+    <string name="hint_enter_your_contact_number">أدخل رقم الاتصال</string>
+    <string name="lbl_email">البريد الإلكتروني :</string>
+    <string name="lbl_wallet">ادعو الاصدقاء , واكسب المال في محفظتك</string>
+    <string name="lbl_your_wallet_in_balance">رصيدك</string>
+    <string name="title_price">السعر</string>
+    <string name="text_confirmed">تاكيد</string>
+    <string name="hint_from_city">من المدينة</string>
+    <string name="hint_to_city">إلى المدينة</string>
+    <string name="txt_view_all">عرض الكل</string>
+    <string name="txt_new_offers">عروض جديدة</string>
+    <string name="txt_popular_package">الباقات المتنوعة</string>
+    <string name="title_email_notification_settings">إعدادات إعلام البريد الإلكتروني</string>
+    <string name="txt_email_notification">إشعار البريد الإلكتروني</string>
+    <string name="lbl_contact_number_settings">إعدادات إعلام رقم الاتصال</string>
+    <string name="lbl_mobile_no">رقم الجوال :</string>
+    <string name="lbl_number_notification">رقم الإخطار</string>
+    <string name="title_language_setting">إعدادات اللغة</string>
+    <string name="lbl_language">اللغة :</string>
+    <string name="txt_english_us">الإنجليزية-الولايات المتحدة</string>
+    <string name="lbl_first_name">الاسم الأول :</string>
+    <string name="lbl_last_name">اسم العائلة :</string>
+    <string name="lbl_gender">النوع :</string>
+    <string name="title_edit_your_name">تعديل اسمك</string>
+    <string name="title_edit_your_contact">تعديل جهة الاتصال الخاصة بك</string>
+    <string name="lbl_total_fare">مجموع الأجرة</string>
+    <string name="lbl_pnr_no">رقم</string>
+
+    <string name="tite_toolbar_cards">البطاقات</string>
+    <string name="lbl_help_support">المساعدة والدعم</string>
+    <string name="hint_enter_your_emailid">ادخل البريد الالكتروني</string>
+
+    <string name="txt_ticket_no">رقم التذكرة</string>
+    <string name="msg_email_required">البريد الإلكتروني مطلوب</string>
+    <string name="msg_email_valid">أدخل بريد إلكتروني صالح</string>
+    <string name="msg_first_name">الاسم الأول مطلوب</string>
+    <string name="msg_last_name">الاسم الأخير مطلوب</string>
+    <string name="msg_valid_mobile_number">أدخل رقم جوال صالح</string>
+    <string name="msg_mobile_number">رقم الجوال مطلوب</string>
+    <string name="msg_email_id">معرف البريد الإلكتروني مطلوب</string>
+    <string name="msg_description">الوصف مطلوب</string>
+    <string name="msg_office_add">عنوان المكتب مطلوب</string>
+    <string name="msg_home_add">عنوان المنزل مطلوب</string>
+    <string name="msg_time">إجازة الوقت المطلوب</string>
+
+    <string name="hint_email">أدخل البريد الإلكتروني</string>
+
+    <string name="txtCancelled">الغاء</string>
+    <string name="txtColon">:</string>
+    <string name="search">بحث</string>
+    <string name="lbl_special">خاص</string>
+    <string name="lbl_use_code">استخدم الكود:</string>
+    <string name="lbl_notification">الاشعارات</string>
+    <string name="lbl_bus_routes">مسار الحافلة</string>
+    <string name="lbl_verification">أدخل رمز التحقق الخاص بك ;  لقد أرسلناك للتو على رقم هاتفك المحمول</string>
+    <string name="txt_verify">تحقق</string>
+    <string name="txt_Resend">إعادة إرسال</string>
+    <string name="lbl_StarRatings">تقييماتك</string>
+    <string name="txt_BusType">نوع الحافلة</string>
+    <string name="lbl_Apply">تطبيق</string>
+    <string name="text_you_want_to">مرحبا بكم في</string>
+    <string name="hint_mobile">أدخل رقم الجوال</string>
+    <string name="lbl_continue">استمرار</string>
+    <string name="text_signinwith">تسجيل الدخول باستخدام</string>
+    <string name="verification">التحقق</string>
+    <string name="refere_and_earn">اقترح واكسب</string>
+    <string name="lbl_profile_settings">تعديل الملف الشخصي</string>
+    <string name="lbl__wallet">المحفظة</string>
+    <string name="lbl_cards">البطاقات</string>
+    <string name="lbl_help">مساعدة</string>
+    <string name="lbl_submit">إرسال</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="text_book_now">احجز الآن</string>
+    <string name="text_contact_information">معلومات الاتصال</string>
+    <string name="text_bus_information">معلومات الحافلة</string>
+    <string name="text_bus_routes_info">توقف الطريق</string>
+    <string name="text_select_stop">حدد التوقف الخاص بك</string>
+    <string name="text_remind_me">ذكرني من قبل</string>
+    <string name="text_remind_me_on">ذكرني على</string>
+    <string name="text_phone">الهاتف :</string>
+    <string name="txt_passenger">الركاب:</string>
+    <string name="txt_passenger_no">الركاب</string>
+    <string name="hint_enter_name">أدخل الاسم</string>
+    <string name="hint_enter_age">أدخل العمر</string>
+    <string name="hint_card_number">رقم البطاقة</string>
+
+    <string name="text_select_month">الشهر</string>
+    <string name="text_select_year">السنة</string>
+    <string name="text_card_holder_name">اسم حامل البطاقة</string>
+    <string name="text_valid">صالح</string>
+    <string name="lbl_ac">مكيف</string>
+    <string name="lbl_non_ac">غير مكيف</string>
+    <string name="lbl_sleeper">النائم</string>
+    <string name="lbl_seater">مقاعد</string>
+    <string name="lbl_payment">الدفع</string>
+    <string name="lbl_reminder">تعيين تذكير</string>
+    <string name="txt_cancelled">ألغيت</string>
+    <string name="txt_cancel_booking">إلغاء</string>
+    <string name="text_available">متاح</string>
+    <string name="text_booked">حجز</string>
+    <string name="text_pickup_point">نقطة الالتقاط</string>
+    <string name="text_dropping_points">نقطة النزول</string>
+    <string name="text_selected">تم الاختيار</string>
+    <string name="lbl_view_routes"><u>عرض الطريق</u></string>
+    <string name="smith_travels">سميث للسفريات</string>
+    <string name="text_net_banking">صافي الخدمات المصرفية</string>
+    <string name="text_offers">العروض</string>
+    <string name="text_credit_card">بطاقة الائتمان</string>
+    <string name="text_debit">بطاقة الخصم</string>
+    <string name="text_Mobilewallet">محفظة الجوال</string>
+    <string name="text_bus_list">حدد فترة زمنية</string>
+    <string name="hint_enter_first_name">أدخل الاسم الأول</string>
+    <string name="hint_enter_last_name">أدخل اسم العائلة</string>
+    <string name="text_save">حفظ</string>
+    <string name="text_ticket_book">العب الان</string>
+    <string name="text_set_reminder">تعيين تذكير</string>
+    <string name="text_total_amount">المبلغ الإجمالي</string>
+    <string name="txt_copy">نسخ</string>
+    <string name="text_offercode">كود العرض</string>
+    <string name="text_package">حزمة</string>
+    <string name="msg_from">من المدينة المطلوبة</string>
+    <string name="msg_office_ride_address_required">مطلوب عنوان المنزل والمكتب</string>
+    <string name="msg_office_ride_timing_required">مطلوب توقيت المنزل والمكتب</string>
+    <string name="msg_to">إلى المدينة المطلوبة</string>
+    <string name="msg_name">الاسم مطلوب</string>
+    <string name="ms_age">العمر المطلوب</string>
+    <string name="msg_digit">رقم البطاقة المطلوبة</string>
+    <string name="msg_code">الرمز مطلوب</string>
+    <string name="msg_holdername">اسم المالك  مطلوب</string>
+    <string name="text_hour">ساعة</string>
+
+
+    <string name="text_remove">تمت إزالة العنصر من القائمة.</string>
+    <string name="title_add_new_card">إضافة بطاقة جديدة</string>
+    <string name="title_wallet">المحفظة</string>
+    <string name="text_trending_packages">المجموعات الشائعة</string>
+    <string name="text_description">الوصف</string>
+    <string name="text_upper">العلوي</string>
+    <string name="text_lower">أقل</string>
+    <string name="text_ladies">السيدات</string>
+    <string name="text_logout">تسجيل الخروج</string>
+
+    <string name="msg_saved">محفوظ</string>
+    <string name="text_confirmation">تأكيد!</string>
+    <string name="msg_logout">هل أنت متأكد, تريد الخروج?</string>
+    <string name="text_yes">نعم</string>
+    <string name="text_no">لا</string>
+    <string name="text_totalseat">مجموع المقاعد:</string>
+    <string name="text_cvv">رمز التحقق من البطاقة</string>
+    <string name="text_seat_no">رقم المقعد</string>
+    <string name="text_addcard">إضافة بطاقة</string>
+    <string name="text_settings">الإعدادات</string>
+    <string name="text_select_bus">اختر المقعد</string>
+    <string name="text_hold">توقف</string>
+    <string name="text_ticket_price">سعر التذكرة :</string>
+    <string name="text_tax">الضريبة :</string>
+    <string name="text_tax_inc">شامل الاجرة</string>
+    <string name="text_total_price">المجموع:</string>
+
+    <string name="text_duration">الوقت المقدر للوصول</string>
+    <string name="text_payment">الدفع</string>
+    <string name="text_done">تم</string>
+    <string name="text_payment_success">نجاح الدفع !</string>
+    <string name="text_close">إغلاق</string>
+    <string name="text_cardadd">تمت إضافة البطاقة</string>
+    <string name="msg_success">شكرا لك على الحجز. استمتع برحلتك</string>
+    <string name="text_recent_search">البحث الأخير</string>
+    <string name="text_am">صباحا</string>
+    <string name="text_pm">مساء</string>
+    <string name="text_city">توقف</string>
+    <string name="lbl_pickup1">يلتقط 1</string>
+    <string name="lbl_location1">موقع جغرافي</string>
+    <string name="lbl_pickup2">يلتقط 2</string>
+    <string name="lbl_dropping1">إسقاط 1</string>
+    <string name="lbl_droppin2">إسقاط 2</string>
+
+    <string name="lbl_type1">مقاعد</string>
+    <string name="lbl_type2">النائم</string>
+
+    <string name="text_version">الإصدار :</string>
+    <string name="text_country">البلد:</string>
+    <string name="title_country_settings">إعدادات البلد</string>
+    <string name="txt_user_name">اسم المستخدم</string>
+    <string name="text_user_lastname">اسم العائلة</string>
+    <string name="text_user_email">البريد الإلكتروني</string>
+    <string name="text_user_phone">رقم الهاتف.</string>
+    <string name="text_one_way">طريقة واحدة</string>
+    <string name="text_return">العودة</string>
+    <string name="text_sleeper">النائم</string>
+    <string name="title_dropping">نقطة الالتقاط</string>
+    <string name="title_passengerdetail">إضافة راكب</string>
+
+    <string name="text_when_you_want_to_go">عندما تريد الذهاب؟</string>
+
+    <string name="lbl_pass">تذكرة</string>
+    <string name="txt_time_slot">فتح الوقت</string>
+    <string name="search_result_title">عنوان الموقع</string>
+    <string name="no_search_result_add">العنوان</string>
+
+
+    <string name="no_search_result_title">لا توجد نتائج. يرجى محاولة شيء آخر.</string>
+    <string name="no_search_result_des">تحقق من وجود أخطاء إملائية وحاول البحث عن مكان قريب او علامة مشهورة</string>
+
+
+
+    <string name="letsgo">لنذهب</string>
+    <string name="hello_blank_fragment">جزء فارغ</string>
+    <string name="hint_pickup_location">موقع الالتقاط</string>
+    <string name="hint_drop_location">موقع الإنزال</string>
+    <string name="txt_available_seats">المقاعد المتاحة -2</string>
+    <string name="text_your_pickup_loca">موقع الالتقاط الخاص بك</string>
+    <string name="lbl_set_reminder"><u>تعيين تذكير</u></string>
+    <string name="title_your_places">الأماكن الخاصة بك</string>
+    <string name="lbl_home">الرئيسية</string>
+    <string name="hint_home_address">عنوان المنزل</string>
+    <string name="text_office">المكتب</string>
+    <string name="hint_office_address">عنوان المكتب</string>
+    <string name="lbl_home_leave_time">الوقت الذي تغادر فيه من المنزل</string>
+    <string name="lbl_office_leave_time">الوقت الذي تغادر فيه من المكتب</string>
+    <string name="title_activity_bus_route">الخريطة</string>
+    <string name="text_pass">تذكرة</string>
+    <string name="text_pass_details">تفاصيل التذكرة</string>
+    <string name="txt_Network">تحقق من اتصال الشبكة الخاص بك !</string>
+    <string name="txt_Something_wrong">حدث خطأ ما !</string>
+    <string name="title_reffer_code">رمز الدعوة</string>
+    <string name="lbl_code">كود</string>
+    <string name="hint_referral_code">رمز الدعوة</string>
+    <string name="lbl_allow">السماح</string>
+    <string name="text_payment_failure">فشل الدفع</string>
+    <string name="text_confirm_payment">تأكيد الدفع</string>
+    <string name="invoice_txt">سيتم إرسال فاتورة لهذا إلى</string>
+    <string name="lbl_explore_routes">استكشاف الطرق</string>
+    <string name="promocode">أدخل الرمز الترويجي</string>
+    <string name="text_recent_search_clear">واضح</string>
+    <string name="lbl_suggest_routes">اقتراح الطريق</string>
+    <string name="title_wallet_history">تاريخ المحفظة</string>
+    <string name="lbl_wallet_history"><u>تاريخ المحفظة</u></string>
+    <string name="lbl_transaction_history">سجل المعاملات</string>
+    <string name="lbl_booking_history">تاريخ الحجز</string>
+    <string name="text_bus_no">رقم الحافلة</string>
+    <string name="txt_bus_name">اسم الحافلة</string>
+    <string name="msg_suggest_route">خدماتنا ستطلق قريبا!!  وفي الوقت نفسه ، يرجى مساعدتنا لجعل تجربتك أفضل. يرجى النقر على الزر أدناه واقتراح مسارك عن طريق إدخال عنوان منزلك ومكتبك.</string>
+    <string name="txt_track_booking">المسار</string>
+    <string name="lbl_track_routes">مسار الحافلة</string>
+    <string name="lbl_invoice">الفاتورة</string>
+    <string name="download_invoice">تحميل الفاتورة</string>
+    <string name="buy_pass_msg">يمكنك شراء تذكرة بعد البحث من قسم مكتب الرحلات. سيتم تطبيق البطاقة فقط في رحلة المكتب وعلى الطريق المحدد</string>
+    <string name="invoice_alert">يمكنك تحميل الفاتورة بعد اكتمال الرحلة.</string>
+    <string name="txt_bus_not_available">آسف! هذه الحافلة غير متوفرة اليوم</string>
+    <string name="text_booking_cancel">إلغاء الحجز</string>
+    <string name="lbl_no_data_available">لا توجد بيانات متاحة</string>
+    <string name="lbl_no_bus_available">لا تتوفر حافلة</string>
+
+    <string name="settings">الإعدادات</string>
+    <string name="fine_permission_denied_explanation">تم رفض إذن موقع جيد ، ولكن هناك حاجة للوظائف الأساسية.</string>
+    <string name="text_review">تنبيه المراجعة</string>
+    <string name="msg_review">مرحبا! مثل التجربة معنا. يرجى أخذ بعض للمراجعة.</string>
+    <string name="text_sure">بالتأكيد</string>
+    <string name="text_later">لاحقا</string>
+    <string name="route_not_available">الطريق غير متوفر</string>
+    <string name="pls_wait_loading">يرجى الانتظار...</string>
+    <string name="alert">تنبيه!!</string>
+    <string name="ok">حسنا</string>
+    <string name="pls_wait_payment_in_progress">يرجى الانتظار معاملتك في التقدم.</string>
+
+
+    <string name="lbl_to">" إلى "</string>
+    <string name="change_email">تغيير البريد الإلكتروني</string>
+    <string name="booking_date">تاريخ الحجز</string>
+    <string name="pickup_point">نقطة الالتقاط</string>
+    <string name="drop_point">نقطة النزول</string>
+    <string name="bus">حافلة</string>
+    <string name="seat_number">رقم المقعد</string>
+    <string name="a1">أ1</string>
+    <string name="pay_from_shuttle_wallet">الدفع من محفظة النقل الذكي</string>
+    <string name="apply">تطبيق</string>
+    <string name="remove">إزالة</string>
+    <string name="ride_fare">أجرة الركوب</string>
+    <string name="no_routes_found">لم يتم العثور على طرق!!</string>
+    <string name="welcome_to_shuttle">مرحبا بكم في النقل الذكي </string>
+    <string name="suggest_us">اقترح لنا.</string>
+    <string name="check_out_shuttle">تحقق من النقل الذكي</string>
+    <string name="no_notification_available">لا يوجد إشعار متاح</string>
+    <string name="no_rides">لا توجد اشعارات متاحة</string>
+    <string name="_30_days_validity">صلاحية 30 يوم</string>
+    <string name="office_route">طريق المكتب</string>
+    <string name="note">ملاحظة</string>
+    <string name="continue_to_pay">الاستمرار في الدفع</string>
+    <string name="helps_us_by_giving_location_permission_to_show_you_buses_live_status">يساعدنا من خلال منح إذن الموقع لتظهر لك حالة الحافلات الحية.</string>
+    <string name="shuttle_collects_location_data_to_show_passenger_bus_routes_only_when_the_app_in_use">النقل الذكي بجمع بيانات الموقع لإظهار خطوط حافلات الركاب فقط عندما يكون التطبيق قيد الاستخدام.</string>
+    <string name="location_show_your_routes">الموقع (إظهار الطرق الخاصة بك)</string>
+    <string name="notification_for_receiving_booking_related_notifications">الإخطار (لتلقي الإخطارات المتعلقة بالحجز)</string>
+    <string name="camera_amp_storage_for_profile_image">الكاميرا والتخزين (لصورة الملف الشخصي)</string>
+    <string name="bus_number">رقم الحافلة</string>
+    <string name="driver_name">اسم السائق</string>
+    <string name="sun">الاحد</string>
+    <string name="mon">الاثنين</string>
+    <string name="tue">الثلاثاء</string>
+    <string name="wed">الأربعاء</string>
+    <string name="the">الخميس</string>
+    <string name="fri">الجمعة</string>
+    <string name="sat">السبت</string>
+    <string name="add_amount">أضف المبلغ</string>
+    <string name="enter_amount">أدخل المبلغ</string>
+    <string name="recommended">المقترحات</string>
+    <string name="add">إضافة</string>
+    <string name="payment_response">استجابة الدفع</string>
+    <string name="instant_ride">احجز الان</string>
+    <string name="rentals">الإيجارات</string>
+    <string name="office_ride">ركوب للعمل</string>
+    <string name="find_route">البحث عن الطريق</string>
+    <string name="pick_up">التقاط</string>
+    <string name="drop_off">النزول</string>
+    <string name="office_timing">توقيت المكتب</string>
+    <string name="book_return_seat_for_the_same">حجز نفس مقعد العودة</string>
+    <string name="destination">الوجهة</string>
+    <string name="go">اذهب</string>
+    <string name="recently_searched">بحثت مؤخرا</string>
+    <string name="clear">واضح</string>
+    <string name="confirm">تأكيد</string>
+    <string name="mode">الوضع :</string>
+    <string name="pay_per_ride">الدفع لكل رحلة</string>
+    <string name="buy_pass">شراء تذكرة</string>
+    <string name="pay_less_for_every_ride">ادفع أقل مقابل كل رحلة</string>
+    <string name="route_stops">توقف الطريق</string>
+    <string name="stops">" توقف "</string>
+    <string name="set_reminder">تعيين تذكير</string>
+    <string name="rides">رحلة</string>
+    <string name="days_validity">أيام الصلاحية</string>
+    <string name="ride">يركب</string>
+    <string name="second_left">ثواني متبقية</string>
+    <string name="txt_to">إلى</string>
+    <string name="txt_proceed_to_pay">انتقل إلى الدفع</string>
+
+
+    <string name="txt_for_this_ride">لهذه الرحلة</string>
+    <string name="start_with_phone_no">ابدأ برقم الهاتف</string>
+    <string name="field_not_empty">يجب ألا يكون الحقل فارغًا</string>
+    <string name="invalid_otp">كلمة المرور لمرة واحدة غير صالحة، يرجى المحاولة مرة أخرى باستخدام كلمة المرور الجديدة.</string>
+    <string name="pls_fill_dtls">يرجى ملء جميع التفاصيل المطلوبة</string>
+
+    <string name="you_sure_wanna_cancel">هل أنت متأكد أنك تريد إلغاء المعاملة والعودة?</string>
+    <string name="update_available">التحديث متاح</string>
+    <string name="new_version_with_updated_features_available_on_the_play_store_please_update_the_application_to_continue">يتوفر إصدار جديد بميزات محدثة في متجر Play. يرجى تحديث التطبيق للمتابعة.</string>
+    <string name="update">تحديث</string>
+    <string name="for_both_morning_amp_evening_trips">للرحلات الصباحية والمسائية</string>
+    <string name="confirm_amp_pay">التأكيد والدفع</string>
+    <string name="terms_amp_conditions">البنود و الظروف</string>
+    <string name="no_sufficient_wallet_balance">رصيد المحفظة غير كافٍ</string>
+    <string name="session_expire_msg">سيتم تسجيل خروجك لأسباب أمنية. نأسف على الإزعاج، يرجى تسجيل الدخول مرة أخرى.</string>
+    <string name="session_expire">انتهاء الجلسة!</string>
+    <string name="text_change_language">تغيير اللغة</string>
+    <string name="title_more">المزيد</string>
+    <string name="title_my_tickets">تذاكري</string>
+    <string name="this_language_is_already_set">تم تعيين هذه اللغة بالفعل.</string>
+    <string name="verifying_payment">التحقق من الدفع ...</string>
+    <string name="promo_code_is_not_valid">الرمز الترويجي غير صالح.</string>
+    <string name="txt_applied">مُطبَّق</string>
+    <string name="you_are_only_allowed_to_book_one_seat_at_a_time">يُسمح لك بحجز مقعد واحد فقط في كل مرة.</string>
+    <string name="you_are_only_allowed_to_book_three_seat_at_a_time">يُسمح لك فقط بحجز ثلاثة مقاعد في المرة الواحدة.</string>
+    <string name="tax_included_in_fare">الأجرة شاملة الضريبة</string>
+    <string name="you_can_add_minimum">"يمكنك إضافة الحد الأدنى"</string>
+    <string name="please_enter_amount">الرجاء إدخال المبلغ.</string>
+    <string name="storage_permission_blocked_please_go_to_settings_and_allow_it">تم حظر إذن التخزين، يرجى الانتقال إلى الإعدادات والسماح به.</string>
+    <string name="set_profile">تعيين الملف الشخصي</string>
+    <string name="choose_any_option">اختر أي خيار.</string>
+    <string name="open_gallery">افتح المعرض</string>
+    <string name="take_picture">التقط صورة</string>
+    <string name="please_check_pick_up_and_drop_locations_could_not_be_same">يرجى التحقق من أن مواقع الالتقاط و النزول لا يمكن أن تكون نفسها.</string>
+    <string name="please_add_pick_up_and_drop_locations_first">الرجاء إضافة مواقع الالتقاط و النزول أولاً.</string>
+    <string name="text_addhold" translatable="false">%s توقف</string>
+    <string name="nearest_search_result_title">أقرب توقف</string>
+    <string name="nearest_search_result_des">فيما يلي قائمة بالمحطات الأقرب إلى موقع البحث الخاص بك.</string>
+    <string name="please_accept_our_terms_and_conditions">يرجى قبول الشروط والأحكام الخاصة بنا.</string>
+    <string name="policy_policy">سياسة الخصوصية</string>
+
+    <string-array name="gender">
+        <item>ذكر</item>
+        <item>أنثى</item>
+        <item>آحرون</item>
+    </string-array>
+
+    <string-array name="language">
+        <item>لغة</item>
+        <item>English</item>
+        <item>عربي</item>
+    </string-array>
+
+    <string-array name="country">
+        <item>India</item>
+        <item>US</item>
+        <item>Canada</item>
+    </string-array>
+
+    <string-array name="buses_array">
+        <item>AC</item>
+        <item>Non AC</item>
+        <item>Normal</item>
+    </string-array>
+
+</resources>
